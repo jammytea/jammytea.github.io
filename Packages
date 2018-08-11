@@ -4,14 +4,14 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jammytea.colorspinners_1.0_iphoneos-arm.deb
-Size: 236116
-MD5sum: 269dc81fdb87d5f93a68d660797f9691
-SHA1: 81cc17090468a1b82856786444c723e75f18bc94
-SHA256: 27def4ff8ab6a65b8dc561c6f9bdb79cb808a79c2a209648021c8e10e0ca67f4
+Size: 236112
+MD5sum: 3cdad99d9743b2f57ac8ae2dbffda1a0
+SHA1: e6cfa96cfdbcaaf4520bf902936efaa8bdb4d027
+SHA256: 9ff4320e60e507b691d9d8b93f358e1e34f5b134581dacd2271da33008960728
 Section: Themes
 Description: Simple alt UI spinners for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/repo/depictions/?p=com.jammytea.colorspinners
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.colorspinners
 Name: Coloured Stencil activity spinners
 
 Package: com.jammytea.stencilbattery.ios10.3.3.andlower
