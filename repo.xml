@@ -1,14 +1,34 @@
 <repo>
 	<footerlinks>
 		<link>
+			<name>Support email</name>
+			<url>mailto:jonathan.telfer@gmail.com</url>
+			<iconclass>fa fa-envelope-o</iconclass>
+		</link>
+		<link>
+			<name>Make a donation (or email for crypto!)</name>
+			<url>https://paypal.me/jammytea</url>
+			<iconclass>fa fa-coffee</iconclass>
+		</link>
+		<link>
+			<name>What icons are themed in Stencil?</name>
+			<url>https://docs.google.com/spreadsheets/d/1tzvAotAAYhKSWowC-geo0CWpp-E4Aw4JFAjAZ8eAW_U/edit?usp=sharing</url>
+			<iconclass>fa fa-question</iconclass>
+		</link>
+		<link>
+			<name>Icon requests</name>
+			<url>https://docs.google.com/forms/d/e/1FAIpQLSevyZBSecXVxpqT3J4P-CMxW4lX4hZYgm_heElS22HnkIYCrg/viewform?usp=sf_link</url>
+			<iconclass>fa fa-edit</iconclass>
+		</link>
+		<link>
 			<name>Follow me on Twitter</name>
 			<url>https://twitter.com/jammytea2</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
 		<link>
-			<name>Making this repo was super easy thanks to Supermamon's marvellous depiction template</name>
+			<name>This repo modelled thankfully after Supermamon's easy depiction template</name>
 			<url>https://github.com/supermamon/Reposi3/</url>
-			<iconclass>fa fa-thumbs-up</iconclass>
+			<iconclass>fa fa-code-fork</iconclass>
 		</link>
 	</footerlinks>
 </repo>
