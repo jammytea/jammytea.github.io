@@ -11,7 +11,7 @@ SHA256: 8f918e42d835d83816cb6abff8802b9453fe7e230be1668ffc41653b494f6581
 Section: Themes
 Description: Battery for Stencil theme removed from latest (ios11) version
 Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/repo/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
 Name: Stencil Battery for 10.3.3 and lower
 
 Package: com.supermamon.newpackage
@@ -45,4 +45,3 @@ Description: This is a sample old package. Firmware should be lower than 7.0
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
-
