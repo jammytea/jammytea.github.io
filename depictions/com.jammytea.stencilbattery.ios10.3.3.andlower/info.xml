@@ -1,19 +1,19 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
+	<id>com.jammytea.stencilbattery.ios10.3.3.andlower</id>
+	<name>Stencil status bar battery</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
-			<otherVersions>unsupported</otherVersions>
+			<maxiOS>10.3.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
 		</firmware>
 	</compatibility>
-	<dependencies></dependencies>
+	<dependencies>com.anemonetheming.anemone</dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>Reinstates status bar elements removed from Stencil for iOS11.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
