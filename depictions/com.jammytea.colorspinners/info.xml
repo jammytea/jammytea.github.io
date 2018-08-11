@@ -1,11 +1,11 @@
 <package>
-	<id>com.jammytea.stencilbattery.ios10.3.3.andlower</id>
-	<name>Stencil status bar battery</name>
+	<id>com.jammytea.colorspinners</id>
+	<name>Alt Stencil UI spinners</name>
 	<version>1.0.0-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>10.3.3</maxiOS>
-			<otherVersions>unconfirmed</otherVersions>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -13,9 +13,16 @@
 	</compatibility>
 	<dependencies>com.anemonetheming.anemone</dependencies>
 	<descriptionlist>
-		<description>Reinstates status bar elements removed from Stencil for iOS11.</description>
+		<description>Just a simple coloured outline for UI Activity spinners, to go with Stencil. Install with Anemone</description>
 	</descriptionlist>
-	<screenshots></screenshots>
+	<screenshots><screenshot>
+		<image>1.png</image>
+	</screenshot><screenshot>
+		<image>2.png</image>
+	</screenshot><screenshot>
+		<image>3.png</image>
+	</screenshot>
+</screenshots>
 	<changelog>
 		<change>Initial release</change>
 	</changelog>
