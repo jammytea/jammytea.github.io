@@ -1,0 +1,26 @@
+<package>
+	<id>com.jammytea.stencilwidgets</id>
+	<name>Stencil widgets (IS2)</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Five little homescreen widgets matching Stencil theme. Requires Infostats2 to function and one of many other tweaks to actually display the widgets!<br/>Includes two now playing variants, an icon sized weather widget, and two agenda widgets, each with loads of customisation options.<br/>And a special OCD wallpaper to help you line them up with your icon layout. </description>
+	</descriptionlist>
+	<screenshots>	<screenshot>
+			<image>6.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial and almost definitely final release</change>
+	</changelog>
+	<links></links>
+</package>
