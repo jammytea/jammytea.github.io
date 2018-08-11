@@ -5,9 +5,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jammytea.colorspinners_1.0_iphoneos-arm.deb
 Size: 236112
-MD5sum: 3cdad99d9743b2f57ac8ae2dbffda1a0
-SHA1: e6cfa96cfdbcaaf4520bf902936efaa8bdb4d027
-SHA256: 9ff4320e60e507b691d9d8b93f358e1e34f5b134581dacd2271da33008960728
+MD5sum: e12e3553cc706c3d684a90b3b7814f4c
+SHA1: 514021e12dbc4e90ef2fe694e3a13907a26373d8
+SHA256: 9ff7950c269ce8c5b26b21f1b27b14c0d2502bd074789c1d196ec6008fe2822c
 Section: Themes
 Description: Simple alt UI spinners for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
