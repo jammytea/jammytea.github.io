@@ -1,0 +1,26 @@
+<package>
+	<id>com.jammytea.stencilwidgetsXI</id>
+	<name>Stencil widgets (XI)</name>
+	<version>1.0.0-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Three little homescreen widgets matching Stencil theme. Requires XenInfo to function and one of many other tweaks to actually display the widgets!<br />Includes two now playing variants and an icon sized weather widget, each with loads of customisation options.<br />And a special OCD wallpaper to help you line them up with your icon layout. </description>
+	</descriptionlist>
+	<screenshots>	<screenshot>
+			<image>6.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
