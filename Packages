@@ -1,0 +1,64 @@
+Package: com.jammytea.stencilbattery.ios10.3.3.andlower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone, com.macciti.stenciltheme
+Filename: ./debs/com.jammytea.stencilbattery.ios10.3.3.andlower.deb
+Size: 11748
+MD5sum: d6ec7251cb72fd35b501a2d72cb78628
+SHA1: fed56178c7153665a3ef2e87204de41adc44057f
+SHA256: a61e755dd00807c87466f1f841046eea933ea498a0b4c43d1eb2044933345000
+Section: Themes
+Description: Battery for Stencil theme removed from latest (ios11) version
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
+Name: Stencil Battery for 10.3.3 and lower
+
+Package: com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower_1.0_iphoneos-arm.deb
+Size: 31432
+MD5sum: a057a2f01da9468f2f440432488e5d53
+SHA1: bcc1e80b0b3f1caef82c32fb5fc501220565caff
+SHA256: 833abe02a5fb1e03e008a28710968b6de03b266c08e19ef5f2b67f1edd8b056c
+Section: Themes
+Description: Control Centre and other media controls for Stencil theme, removed from latest (ios11) version
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
+Name: Stencil Control Centre for 10.3.3 and lower
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: com.supermamon.oldpackage
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (<7.0)
+Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Size: 860
+MD5sum: 8c606f0c05217aa2a20949091fe516f0
+SHA1: 44f945218a8f72e24ad69191bfee4a89bb7e9bc0
+SHA256: 2d0cf4ea9ddc1d1be3968c869ddd29bd850eae37ccd9b35d100f72b7aca62f8e
+Section: Tweaks
+Description: This is a sample old package. Firmware should be lower than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
+Name: Old Package
+
