@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies>com.anemonetheming.anemone</dependencies>
 	<descriptionlist>
-		<description>Reinstates status bar elements removed from <i><b><strong>Stencil</strong></b> for iOS11</i> test.</description>
+		<description>Reinstates status bar elements removed from Stencil for iOS11.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
