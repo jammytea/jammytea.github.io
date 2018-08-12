@@ -53,9 +53,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.jammytea.stencilwidgets_1.1_iphoneos-arm.deb
 Size: 256048
-MD5sum: 942ec2088ad183cc5bc0ed51251271ef
-SHA1: 0275b2ebba2bf3924c588c6deeb6a660e9a4c5e1
-SHA256: 53081e4b58064dec064df71abd152506da4b74dd491a699a86e367b23073892e
+MD5sum: d4cc498cfee6e6054ca53b5d5ffd038d
+SHA1: 3d0a3d102fe5357e4b2a887dfeaa82c7784cec5f
+SHA256: 24c4dc4c6056cdaa574a36a2e33920613a4e2c75e507994c6196de495392ebe8
 Section: Widgets
 Description: Five mini home screen widgets needing Infostats2
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -69,9 +69,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.jammytea.stencilwidgetsxi_1.1_iphoneos-arm.deb
 Size: 334616
-MD5sum: cf2c85501a614d238871915da1ff36ab
-SHA1: 83ca84fa297dcb1624a0395aaf71bd222e6a3d2f
-SHA256: 66848fb56af01b6383ed03d1e2f6d5de9e285c856eae27667ff6aa5a737a3290
+MD5sum: e1a8452132d954e44b00725f17a96c07
+SHA1: a71bfd558f80a708ea803635b9bedf548a17a327
+SHA256: cc3ae94e567633bc59e025b0714418f2abb5f871d72001c8dbcc762109702057
 Section: Widgets
 Description: Three mini home screen widgets needing XenInfo
 Author: jammytea <jonathan.telfer@gmail.com>
