@@ -1,6 +1,6 @@
 <package>
 	<id>com.jammytea.stencilcontrolcenter.ios10.3.3.andlower</id>
-	<name>Full Package</name>
+	<name>Stencil Control Center</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -33,11 +33,5 @@
 		<change>Initial release</change>
 		<change>Initial solo release of elements originally in Stencil theme</change>
 	</changelog>
-	<links>
-		<link>
-			<name>Twitter</name>
-			<url>https://twitter.com/jammytea2</url>
-			<iconclass>fa fa-Twitter</iconclass>
-		</link>
-	</links>
+	<links></links>
 </package>
