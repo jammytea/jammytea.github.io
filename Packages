@@ -69,9 +69,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: mobilesubstrate
 Filename: ./debs/com.jammytea.stencilwidgets_1.1_iphoneos-arm.deb
 Size: 256048
-MD5sum: 57b6a6461d22aa0f2d55f6288676f990
-SHA1: 2b5e5f02976b980f48b9c21c724df15c1feed841
-SHA256: 2eb5e85ec0444bf510b028830bf41f1d799f72c5c7620cdb4e01dc26c4118bf1
+MD5sum: e3065d8d22ca6e14af9154e08be1d979
+SHA1: d1b8c2be512eccaa3bb5b82cec04b56fc4b5e5c0
+SHA256: 3db9fb22b57ae682b06fb9a7e92abd349d48dd051d5edc9e45d6ea4d210c19ea
 Section: Widgets
 Description: Five mini home screen widgets needing Infostats2
 Author: jammytea <jonathan.telfer@gmail.com>
