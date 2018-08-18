@@ -1,0 +1,26 @@
+<package>
+	<id>com.jammytea.swzeppelin</id>
+	<name>Star Wars logos for Zeppelin</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.alexzielenski.zeppelin</package>
+	</dependencies>
+	<shortDescription>A group of logos from Star Wars to replace your carrier logo</shortDescription>
+	<descriptionlist>
+		<description>A group of logos from Star Wars to replace your carrier logo.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description> </description>
+			<image>1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>

@@ -14,53 +14,21 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.colorspinners
 Name: Coloured Stencil activity spinners
 
-Package: com.jammytea.stencilbattery.ios10.3.3.andlower
+Package: com.jammytea.indiezeppelin
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: com.anemonetheming.anemone, com.macciti.stenciltheme
-Filename: ./debs/com.jammytea.stencilbattery.ios10.3.3.andlower_1.0_iphoneos-arm.deb
-Size: 11622
-MD5sum: cc8db4033a42c7a575bf399d5158f917
-SHA1: 65b71f2748a715a7485fb6bd72b986465b20733f
-SHA256: 9246861086598264552dfd198ba80ff528cbae8c1d83cb2f2c474efce5616254
+Depends: com.alexzielenski.zeppelin
+Filename: ./debs/com.jammytea.indiezeppelin_1.0_iphoneos-arm.deb
+Size: 18966
+MD5sum: 04544ae95dbb58e2f6e2a37c2247b987
+SHA1: db8a501e16ede0052c465cf803e1ee8f0ab2d26b
+SHA256: 17efb978080fbd6244a8b86e48b175dffb99f45926286813b4d601d326066f19
 Section: Themes
-Description: Battery for Stencil theme removed from latest (ios11) version
+Description: A group of punk and indie logos to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
-Name: Stencil Battery for 10.3.3 and lower
-
-Package: com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower_1.0_iphoneos-arm.deb
-Size: 31304
-MD5sum: 4664c67edb2a2624329aaceb19f49550
-SHA1: 4f5af2b9262d4dd71750e7fc7f0daa2af2581b66
-SHA256: 50498ea09b75c3161e06a9ad0f047676b1e39923d395a14b291bfa2596539f0d
-Section: Themes
-Description: Control Centre and other media controls for Stencil theme, removed from latest (ios11) version
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
-Name: Stencil Control Centre for 10.3.3 and lower
-
-Package: com.jammytea.stencilwidgets
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgets_1.1_iphoneos-arm.deb
-Size: 255894
-MD5sum: cdac5843126d974d1e02cfe163357b90
-SHA1: 3899ca6664ab7145a03f8d4bbedabe8932f6a347
-SHA256: 5b63838110b31f4afa30775c87dfa901e77b8c32deb26e659e6bcf358818d14e
-Section: Widgets
-Description: Five mini home screen widgets needing Infostats2
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets
-Name: 5 lil Stencil widgets IS2
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
+Name: Indie music logos for Zeppelin
 
 Package: com.jammytea.stencilwidgetsxi
 Version: 1.1.2

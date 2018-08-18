@@ -1,0 +1,26 @@
+<package>
+	<id>com.jammytea.swzeppelin</id>
+	<name>Indie and punk logos for Zeppelin</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>com.alexzielenski.zeppelin</package>
+	</dependencies>
+	<shortDescription>A group of punk and indie logos to replace your carrier logo</shortDescription>
+	<descriptionlist>
+		<description>A group of punk and indie logos to replace your carrier logo - Black Flag, K Records, Sub Pop and Ween. I'm happy to take requests if there are any bands you want to see featured</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description> </description>
+			<image>1.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
