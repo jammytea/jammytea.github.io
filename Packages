@@ -21,9 +21,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.jammytea.indiezeppelin_1.0_iphoneos-arm.deb
 Size: 18966
-MD5sum: 2891ec7d4faf7d9abb0977be221d031c
-SHA1: 0db449bac9a25f22f8525be7af5d124108921a71
-SHA256: c0527e24ad1cbe4a4add5cc329a2170fbcf7c9f91309e43844bcac61e24157a9
+MD5sum: 933fa08029f94e95fc896cde23d44357
+SHA1: 576354ee83b33e582f578fc46f73c6c97a9f9ca9
+SHA256: d5716ca6e4cbbf44212ab27d89e3e7159327a16c76ee290045f4b351781288b1
 Section: Themes
 Description: A group of punk and indie logos to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -37,9 +37,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone, com.macciti.stenciltheme
 Filename: ./debs/com.jammytea.stencilbattery.ios10.3.3.andlower_1.0_iphoneos-arm.deb
 Size: 11622
-MD5sum: cc8db4033a42c7a575bf399d5158f917
-SHA1: 65b71f2748a715a7485fb6bd72b986465b20733f
-SHA256: 9246861086598264552dfd198ba80ff528cbae8c1d83cb2f2c474efce5616254
+MD5sum: af9345adca094b3cbf1e0012b683be0a
+SHA1: c02e80adc0b9e071c052aa8021da6c65085bab56
+SHA256: f0f1cf9f707af98e452befafff104aa57be6d9ac97dcae2052d6097247658216
 Section: Themes
 Description: Battery for Stencil theme removed from latest (ios11) version
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -53,9 +53,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower_1.0_iphoneos-arm.deb
 Size: 31304
-MD5sum: fff29c68cd8564778d4b28cc57fe014b
-SHA1: 2e7a3e1322a64ff4d264e31d26ca5c341029a371
-SHA256: f36da05f0ab4bca7eea33b842176b0b1214ea35313b79962c9c1bb2506395998
+MD5sum: 6911101da722dde812bf0e0379e00c34
+SHA1: b90eef3e65a167b069fb2390e421812223fcda9a
+SHA256: 3edd4416f188287854752c5b0a82d445063576e8bba6495eb6f40c2f2e36e636
 Section: Themes
 Description: Control Centre and other media controls for Stencil theme, removed from latest (ios11) version
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -101,9 +101,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.alexzielenski.zeppelin
 Filename: ./debs/com.jammytea.swzeppelin_1.0_iphoneos-arm.deb
 Size: 21312
-MD5sum: bf47aa4ec61332f352f08399f27da8c7
-SHA1: fc43d35cf02ebd54872653dd0e0ee94776fb2744
-SHA256: c2e2068d00b37dce5551afe292606762adc8c01d5dd620bccb2a54b258ce569c
+MD5sum: 72c7395911a5f3f6d820e9bfcc03341b
+SHA1: b9d007a41412565874ef0b919d909356069bee2a
+SHA256: 7d1be276c0698e6a16c738b5b4cb85b5efd5f5d1b0aa7bd07fe1f0a2426e2080
 Section: Themes
 Description: A group of logos from Star Wars to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
