@@ -30,6 +30,22 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
 Name: Indie music logos for Zeppelin
 
+Package: com.jammytea.resprings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.resprings_1.0_iphoneos-arm.deb
+Size: 767964
+MD5sum: 22fd5cbf5e9837b82047cfa4737805e9
+SHA1: 3fd8bd37bc52a3de16b571f3189ff1ec99da2844
+SHA256: afe73402416b1c09a8777b1d1941d699ae2fbdeef34d8c0989d06f2cd38c6e06
+Section: Themes
+Description: 10 Stencil-ish respring animations
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.resprings
+Name: Stencil-ish respring logos
+
 Package: com.jammytea.stencilbattery.ios10.3.3.andlower
 Version: 1.0
 Architecture: iphoneos-arm
