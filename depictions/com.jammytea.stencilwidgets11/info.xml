@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilwidgetsxi</id>
 	<name>Stencil widgets XI</name>
-	<version>1.2</version>
+	<version>1.2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -14,7 +14,7 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Three little homescreen widgets matching Stencil theme. Requires XenInfo to function and one of many other tweaks to actually display the widgets! Includes two now playing variants and an icon sized weather widget, each with loads of customisation options. And a special OCD wallpaper to help you line them up with your icon layout. </description>
-		<description>The main music widget now defaults to showing a gallery from Unsplash. You can still set it to be blank in the options. To add a default image, add your own file "Artwork.jpg" to the widget folder</description>
+		<description>The main music widget now defaults to showing a gallery from Unsplash. You can still set it to be blank in the options or set your own image, by adding your own file "Artwork.jpg" to the widget folder</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
