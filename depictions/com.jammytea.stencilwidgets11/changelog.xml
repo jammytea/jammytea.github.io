@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+			<version>1.2.7</version>
+			<change>Added more applaunch options. Last update for now</change>
+		</changes>
+	<changes>
 			<version>1.2.6</version>
 			<change>Fixed buttons for real. Last update for now</change>
 		</changes>
