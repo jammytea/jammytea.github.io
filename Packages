@@ -95,36 +95,20 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcontrolc
 Name: Stencil Control Centre for 10.3.3 and lower
 
 Package: com.jammytea.stencilmusiccontrol
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.jammytea.stencilmusiccontrol_1.0_iphoneos-arm.deb
-Size: 5028
-MD5sum: b3a934ba1c7d4b41f0e5d76be97e6965
-SHA1: 3d2171b8548a9ca0d2682b31b27d970cec763ce6
-SHA256: cb1d7a3eb51a10d14ba13e5370114adfbdfb4b18d15dd4f170e2e51db80c11c1
-Section: Themes
-Description: Media controls for Stencil theme
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccontrol
-Name: Stencil Music Controls
-
-Package: com.jammytea.stencilmusiccontrol
 Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jammytea.stencilmusiccontrol_1.1_iphoneos-arm.deb
-Size: 8340
-MD5sum: b0c16e6ba618dbde650bd8af5d0c6f39
-SHA1: 1b5ff3b0432831d54a9df520b2645cac1517381f
-SHA256: ebb6c68bf6a97a650087b33741433feb1ea0d467f21ff82df69c32a4a44ed610
+Size: 8336
+MD5sum: 8650c852eaa3b6361f7db574a543c03b
+SHA1: f6c2adc6abd283df438dab5cdf450e8c4490bc44
+SHA256: 51081940422d13d706ad23016d9ecda01debe69bb29e4846f0d386281bf769ee
 Section: Themes
 Description: Media controls for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccontrol
-Name: Stencil Music Controls
+Name: Stencil Music Control
 
 Package: com.jammytea.stencilwidgets
 Version: 1.1
