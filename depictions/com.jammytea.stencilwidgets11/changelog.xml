@@ -1,19 +1,11 @@
 <changelog>
 	<changes>
+			<version>1.2.8</version>
+			<change>Added new widget, for pics only</change>
+		</changes>
+	<changes>
 			<version>1.2.7</version>
 			<change>Added more applaunch options. Last update for now</change>
-		</changes>
-	<changes>
-			<version>1.2.6</version>
-			<change>Fixed buttons for real. Last update for now</change>
-		</changes>
-	<changes>
-			<version>1.2.3</version>
-			<change>Fixed clipped corners.</change>
-		</changes>
-	<changes>
-			<version>1.2.1</version>
-			<change>Overhauled main music module, fixed stretched images and now local images actually do display.</change>
 		</changes>
 	<changes>
 			<version>1.2</version>

@@ -30,6 +30,22 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
 Name: Indie music logos for Zeppelin
 
+Package: com.jammytea.musicwall
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.musicwall_1.0_iphoneos-arm.deb
+Size: 2028
+MD5sum: 18bf61474a76b823be1713c009f289a0
+SHA1: 7c59746370cfac84bfe4424c9dcf07df7ab9889a
+SHA256: ea398163e5e66e95917cbc595569bfe6df59da28bb77897a5b133884d37e5a1e
+Section: Widgets
+Description: A home and lock screen music background widgets
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.musicwall
+Name: Music wall
+
 Package: com.jammytea.resprings
 Version: 1.0
 Architecture: iphoneos-arm
@@ -88,6 +104,22 @@ Size: 5028
 MD5sum: b3a934ba1c7d4b41f0e5d76be97e6965
 SHA1: 3d2171b8548a9ca0d2682b31b27d970cec763ce6
 SHA256: cb1d7a3eb51a10d14ba13e5370114adfbdfb4b18d15dd4f170e2e51db80c11c1
+Section: Themes
+Description: Media controls for Stencil theme
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccontrol
+Name: Stencil Music Controls
+
+Package: com.jammytea.stencilmusiccontrol
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jammytea.stencilmusiccontrol_1.1_iphoneos-arm.deb
+Size: 8340
+MD5sum: b0c16e6ba618dbde650bd8af5d0c6f39
+SHA1: 1b5ff3b0432831d54a9df520b2645cac1517381f
+SHA256: ebb6c68bf6a97a650087b33741433feb1ea0d467f21ff82df69c32a4a44ed610
 Section: Themes
 Description: Media controls for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -186,6 +218,22 @@ SHA1: 000c7c6c5f953511655cde031d2d6947ff346f9d
 SHA256: 803b2043d1663f988887b4bd5b74d7d126ac8bb5df38b55b00bc6b54574f4747
 Section: Widgets
 Description: Three mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: Stencil widgets XI
+
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.2.8_iphoneos-arm.deb
+Size: 335318
+MD5sum: f36ef6d074c65724046553a5ab592ce0
+SHA1: 5d403a479d0ba8037db65648255fd417bc733d8f
+SHA256: 96bb75dbe1a597514126ca6e76b1ff7b5de3b435ec93542f744fe9d39f07aa00
+Section: Widgets
+Description: Four mini home screen widgets needing XenInfo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
 Name: Stencil widgets XI
