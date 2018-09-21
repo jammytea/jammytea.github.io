@@ -85,9 +85,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.jammytea.stencilcc11_1.0_iphoneos-arm.deb
 Size: 965612
-MD5sum: 0f72237f80ad7b8bc32740baf59421e3
-SHA1: d501aafbfd3c9e1acd9d766c1103e06c60d1f371
-SHA256: 355f521e0dc077e481ad149a8eeaaa335988499f7457208174414d3e00de54a3
+MD5sum: 8bdf9c9bc1321fe6ec06ad0244b28d5c
+SHA1: 4062bc7b2df7af07a46a84a9a8ad3d5a7bddaa7f
+SHA256: fac801dbb5aca00b98ed71d41559b29eec0936085beb2d3d4f3482d1d79b227d
 Section: Themes
 Description: iOS11 Control Center for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
