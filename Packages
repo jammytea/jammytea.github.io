@@ -94,6 +94,22 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcc11
 Name: Stencil Control Center 11
 
+Package: com.jammytea.stencilcc11
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jammytea.stencilcc11_1.1_iphoneos-arm.deb
+Size: 1179566
+MD5sum: 32bae6d3c567ebdc24140c94390f6593
+SHA1: e9551eb7bdb9af381265554f2d5c63dad9a019c6
+SHA256: a4d6d79986da5813cb6bfc48187c472c7436dc41c80ec2bd564d11b2aab37ad9
+Section: Themes
+Description: iOS11 Control Center for Stencil theme
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcc11
+Name: Stencil Control Center 11
+
 Package: com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
 Version: 1.0
 Architecture: iphoneos-arm
