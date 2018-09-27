@@ -1,0 +1,42 @@
+<package>
+	<id>com.maddogyx.iosx</id>
+	<name>iOS X theme</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<shortDescription>Theme your iDevice like a Mac</shortDescription>	<descriptionlist>
+		<description>Theme your iDevice like a Mac.
+There are alternate icons and folder icons one can manually set up by going into the IconBundles folder and changing the icon names.</description>
+		<description>I and the repo maintainer do not own the images provided in this theme.
+		Stock Apple apps are copyrighted by Apple. This theme is free and always will be.
+		If you see this theme being sold anywhere else please contact me as this is not the intention of this theme. </description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>5.jpg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+</package>
