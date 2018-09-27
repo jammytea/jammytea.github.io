@@ -271,15 +271,15 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.swzeppelin
 Name: Star Wars logos for Zeppelin
 
 Package: com.maddogyx.ios
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
-Filename: ./debs/com.maddogyx.ios_1.0_iphoneos-arm.deb
-Size: 51359168
-MD5sum: 21ace6adee14ff5fcfbb3028eb1b3c83
-SHA1: 41a7429f431d46cbde2230183c27c74e648f67c9
-SHA256: 2b81bf5c5c632204949f19bef7fb6ffabbd097687c007bd52d92dd4c012835c2
+Filename: ./debs/com.maddogyx.ios_1.1_iphoneos-arm.deb
+Size: 50468010
+MD5sum: 2cde741aad44c104e66eac57dcae628d
+SHA1: 838f11168428e5556dc857187587a160de5a1624
+SHA256: 261d7d7303cc8c6b4b73dc07fcaff3f596b0b61714fb83af21028d4718ac9f36
 Section: Themes
 Description: Theme your iDevice like a Mac
 Author: Maddogyx <m.timchack@yahoo.com>
