@@ -286,3 +286,19 @@ Author: Maddogyx <m.timchack@yahoo.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.maddogyx.iosx
 Name: iOS X
 
+Package: com.maddogyx.ios
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.maddogyx.ios_1.2_iphoneos-arm.deb
+Size: 7484634
+MD5sum: d595974632a40fe92adb9b266d9dc4d3
+SHA1: 9fc7ad35dfb046af520bbb51c747882066818284
+SHA256: dda48fa6ef1ac89e7371f497f48147c8409a89b6171ec42c6fb6dae10cc55c0d
+Section: Themes
+Description: Theme your iDevice like a Mac
+Author: Maddogyx <m.timchack@yahoo.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.maddogyx.iosx
+Name: iOS X
+
