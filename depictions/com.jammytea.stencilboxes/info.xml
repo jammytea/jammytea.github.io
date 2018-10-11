@@ -13,7 +13,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>A simple widget to create a box on your homescreen. You can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background.</description>
+		<description>A simple widget to create a box on your homescreen. You can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background. Not all changes are visible in XenHTML's preview, but choose your settings, exit to springboard and go back in, and the preview is correct, allowing you to place it properly. Also included is a wallpaper to help align your box relative to the icon grid</description>
 	</descriptionlist>
 	<screenshots>	<screenshot>
 			<image>1.png</image>
