@@ -78,21 +78,21 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
 Name: Stencil Battery for 10.3.3 and lower
 
-Package: com.jammytea.stencilcc11
+Package: com.jammytea.stencilboxes
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.jammytea.stencilcc11_1.0_iphoneos-arm.deb
-Size: 965612
-MD5sum: 8bdf9c9bc1321fe6ec06ad0244b28d5c
-SHA1: 4062bc7b2df7af07a46a84a9a8ad3d5a7bddaa7f
-SHA256: fac801dbb5aca00b98ed71d41559b29eec0936085beb2d3d4f3482d1d79b227d
-Section: Themes
-Description: iOS11 Control Center for Stencil theme
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilboxes_1.0_iphoneos-arm.deb
+Size: 7592
+MD5sum: 7cb09ce6d5a611a68baa12bd053792e8
+SHA1: d1e977ad519cef649bdc0df42adc1f2d17bd98c0
+SHA256: b1ff885c2ede7b9701fe0c99bb184c89ccba3d801259f556e12042685ca624ed
+Section: Widgets
+Description: Customisable box widget to frame elements on your homescreen
 Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcc11
-Name: Stencil Control Center 11
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
+Name: Stencil boxes
 
 Package: com.jammytea.stencilcc11
 Version: 1.1
@@ -143,22 +143,6 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccon
 Name: Stencil Music Control
 
 Package: com.jammytea.stencilwidgets
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgets_1.1_iphoneos-arm.deb
-Size: 255884
-MD5sum: 57507470c456cad468d223b1112347bb
-SHA1: 0390e117c0b772634fd03752844a49d56acd7104
-SHA256: c80efb0f39e045899fcae2d0481d8626cb73201e6e7dcd6cacdc74611825eaaa
-Section: Widgets
-Description: Five mini home screen widgets needing Infostats2
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets
-Name: 5 lil Stencil widgets IS2
-
-Package: com.jammytea.stencilwidgets
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
@@ -173,22 +157,6 @@ Description: Five mini home screen widgets needing Infostats2
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets
 Name: 5 lil Stencil widgets IS2
-
-Package: com.jammytea.stencilwidgetsxi
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgetsxi_1.0_iphoneos-arm.deb
-Size: 7598
-MD5sum: 22bcd0e0bd4f29b0aaa52ec1caabd17b
-SHA1: 834869805df451b5be7ef702cb7eb32871d3d54d
-SHA256: b45309fdeea1436d3af4dea73e1d082894929f3c0847da998e27a23dc428e3bc
-Section: Widgets
-Description: Customisable box widget to frame elements on your homescreen
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
-Name: Stencil boxes
 
 Package: com.jammytea.stencilwidgetsxi
 Version: 1.1.4
@@ -239,22 +207,6 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets1
 Name: Stencil widgets XI
 
 Package: com.jammytea.stencilwidgetsxi
-Version: 1.2.7
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgetsxi_1.2.7_iphoneos-arm.deb
-Size: 335140
-MD5sum: ea2e64ea826c4de35993b358b36ec7ee
-SHA1: 000c7c6c5f953511655cde031d2d6947ff346f9d
-SHA256: 803b2043d1663f988887b4bd5b74d7d126ac8bb5df38b55b00bc6b54574f4747
-Section: Widgets
-Description: Three mini home screen widgets needing XenInfo
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
-Name: Stencil widgets XI
-
-Package: com.jammytea.stencilwidgetsxi
 Version: 1.2.8
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
@@ -285,22 +237,6 @@ Description: A group of logos from Star Wars to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.swzeppelin
 Name: Star Wars logos for Zeppelin
-
-Package: com.maddogyx.ios
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: com.anemonetheming.anemone
-Filename: ./debs/com.maddogyx.ios_1.1_iphoneos-arm.deb
-Size: 50468010
-MD5sum: 2cde741aad44c104e66eac57dcae628d
-SHA1: 838f11168428e5556dc857187587a160de5a1624
-SHA256: 261d7d7303cc8c6b4b73dc07fcaff3f596b0b61714fb83af21028d4718ac9f36
-Section: Themes
-Description: Theme your iDevice like a Mac
-Author: Maddogyx <m.timchack@yahoo.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.maddogyx.iosx
-Name: iOS X
 
 Package: com.maddogyx.ios
 Version: 1.2
