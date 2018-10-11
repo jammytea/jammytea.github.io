@@ -1,0 +1,28 @@
+<package>
+	<id>com.jammytea.stencilboxes</id>
+	<name>Stencil boxes</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A simple widget to create a box on your homescreen. You can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background.</description>
+	</descriptionlist>
+	<screenshots>	<screenshot>
+			<image>1.png</image>
+		</screenshot><screenshot>
+				<image>2.png</image>
+			</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
