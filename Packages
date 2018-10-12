@@ -94,6 +94,22 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
 Name: Stencil boxes
 
+Package: com.jammytea.stencilboxes
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilboxes_1.1_iphoneos-arm.deb
+Size: 7560
+MD5sum: d87a87744deeaae9146ab9faa5fb7d15
+SHA1: 6679bf1dd7f98c588e3f4eb280902076b0ee2698
+SHA256: cad2f57b80c709690b2d606ee24ccfbcaee9ac5510daf1a3f1d53b9f98944a50
+Section: Widgets
+Description: Customisable box widget to frame elements on your homescreen
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
+Name: Stencil boxes
+
 Package: com.jammytea.stencilcc11
 Version: 1.1
 Architecture: iphoneos-arm
