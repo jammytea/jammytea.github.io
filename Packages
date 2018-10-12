@@ -79,31 +79,15 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.
 Name: Stencil Battery for 10.3.3 and lower
 
 Package: com.jammytea.stencilboxes
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilboxes_1.0_iphoneos-arm.deb
-Size: 7592
-MD5sum: 7cb09ce6d5a611a68baa12bd053792e8
-SHA1: d1e977ad519cef649bdc0df42adc1f2d17bd98c0
-SHA256: b1ff885c2ede7b9701fe0c99bb184c89ccba3d801259f556e12042685ca624ed
-Section: Widgets
-Description: Customisable box widget to frame elements on your homescreen
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
-Name: Stencil boxes
-
-Package: com.jammytea.stencilboxes
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilboxes_1.1_iphoneos-arm.deb
-Size: 7560
-MD5sum: d87a87744deeaae9146ab9faa5fb7d15
-SHA1: 6679bf1dd7f98c588e3f4eb280902076b0ee2698
-SHA256: cad2f57b80c709690b2d606ee24ccfbcaee9ac5510daf1a3f1d53b9f98944a50
+Filename: ./debs/com.jammytea.stencilboxes_1.2_iphoneos-arm.deb
+Size: 7846
+MD5sum: df10a576bc0ed28804b996c930638cb5
+SHA1: 69c37ccc1478dd478ee9950ce68978c02407be3d
+SHA256: bd952dc916b80be84cd81bf2f5782e6c86e84f539d30cb151b67c49e7b882561
 Section: Widgets
 Description: Customisable box widget to frame elements on your homescreen
 Author: jammytea <jonathan.telfer@gmail.com>

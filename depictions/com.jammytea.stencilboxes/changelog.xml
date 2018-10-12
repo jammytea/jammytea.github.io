@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.2</version>
+		<change>Added hex input version, more layout improvements</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial release</change>
 	</changes>
