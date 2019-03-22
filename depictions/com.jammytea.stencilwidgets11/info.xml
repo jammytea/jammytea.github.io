@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilwidgetsxi</id>
 	<name>Stencil widgets XI</name>
-	<version>1.2.8</version>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -28,7 +28,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Made music widget into a gallery/picture frame when no music is playing. Added new widget for pictures only</change>
+		<change>Small fixes for ios12. Added icon tap action option for mini music widget</change>
 	</changelog>
 	<links></links>
 </package>
