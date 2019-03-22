@@ -30,6 +30,54 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
 Name: Indie music logos for Zeppelin
 
+Package: com.jammytea.musicwall
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.musicwall_1.0_iphoneos-arm.deb
+Size: 2028
+MD5sum: 18bf61474a76b823be1713c009f289a0
+SHA1: 7c59746370cfac84bfe4424c9dcf07df7ab9889a
+SHA256: ea398163e5e66e95917cbc595569bfe6df59da28bb77897a5b133884d37e5a1e
+Section: Widgets
+Description: A home and lock screen music background widgets
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.musicwall
+Name: Music wall
+
+Package: com.jammytea.resprings
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.resprings_1.0_iphoneos-arm.deb
+Size: 767964
+MD5sum: 22fd5cbf5e9837b82047cfa4737805e9
+SHA1: 3fd8bd37bc52a3de16b571f3189ff1ec99da2844
+SHA256: afe73402416b1c09a8777b1d1941d699ae2fbdeef34d8c0989d06f2cd38c6e06
+Section: Themes
+Description: 10 Stencil-ish respring animations
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.resprings
+Name: Stencil-ish respring logos
+
+Package: com.jammytea.stencilbattery.ios10.3.3.andlower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone, com.macciti.stenciltheme
+Filename: ./debs/com.jammytea.stencilbattery.ios10.3.3.andlower_1.0_iphoneos-arm.deb
+Size: 11622
+MD5sum: af9345adca094b3cbf1e0012b683be0a
+SHA1: c02e80adc0b9e071c052aa8021da6c65085bab56
+SHA256: f0f1cf9f707af98e452befafff104aa57be6d9ac97dcae2052d6097247658216
+Section: Themes
+Description: Battery for Stencil theme removed from latest (ios11) version
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
+Name: Stencil Battery for 10.3.3 and lower
+
 Package: com.jammytea.stencilboxes
 Version: 1.2
 Architecture: iphoneos-arm
@@ -46,6 +94,150 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
 Name: Stencil boxes
 
+Package: com.jammytea.stencilcc11
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jammytea.stencilcc11_1.1_iphoneos-arm.deb
+Size: 1179566
+MD5sum: 32bae6d3c567ebdc24140c94390f6593
+SHA1: e9551eb7bdb9af381265554f2d5c63dad9a019c6
+SHA256: a4d6d79986da5813cb6bfc48187c472c7436dc41c80ec2bd564d11b2aab37ad9
+Section: Themes
+Description: iOS11 Control Center for Stencil theme
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcc11
+Name: Stencil Control Center 11
+
+Package: com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower_1.0_iphoneos-arm.deb
+Size: 31304
+MD5sum: 6911101da722dde812bf0e0379e00c34
+SHA1: b90eef3e65a167b069fb2390e421812223fcda9a
+SHA256: 3edd4416f188287854752c5b0a82d445063576e8bba6495eb6f40c2f2e36e636
+Section: Themes
+Description: Control Centre and other media controls for Stencil theme, removed from latest (ios11) version
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
+Name: Stencil Control Centre for 10.3.3 and lower
+
+Package: com.jammytea.stencilmusiccontrol
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.jammytea.stencilmusiccontrol_1.2_iphoneos-arm.deb
+Size: 8336
+MD5sum: 6d6a72865fe94809db84a220c7597c9f
+SHA1: 9c61bc5bfc6e51c1b4af019562bebbb92c6de8ef
+SHA256: ad25a28a184ec44ea37f46da88799ffbaff74796f1ad5699ac4fc0723328e169
+Section: Themes
+Description: Media controls for Stencil theme
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccontrol
+Name: Stencil Music Control
+
+Package: com.jammytea.stencilwidgets
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgets_1.2_iphoneos-arm.deb
+Size: 255888
+MD5sum: 2261f8926e2ca89d9e5ca15dbf607591
+SHA1: 6a9008ce8ac988839afea99aca3767e9ea88feb6
+SHA256: e8c42aa1343c0a253813ebfb2dd6fc44211fa9820638094b6968da67e41e09bf
+Section: Widgets
+Description: Five mini home screen widgets needing Infostats2
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets
+Name: 5 lil Stencil widgets IS2
+
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.1.4_iphoneos-arm.deb
+Size: 334462
+MD5sum: e9337488454adffebdca505c62dbd682
+SHA1: e6e7dedec3b905f679dd57b56558e196e1e5768a
+SHA256: d145659e9f383941adb490ce452004e8d1cff29b95950411f3ca73e0c3757805
+Section: Widgets
+Description: Three mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: 3 Stencil widgets XI
+
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.1.6_iphoneos-arm.deb
+Size: 334478
+MD5sum: f390ef3fea6416409d521291dc6f6b94
+SHA1: 39a0de4fee644c46be3c64509a6aa11358f841c4
+SHA256: 23b6c5715135f94b867da10ab6b9c4b8c95b8a286947b55ca2e623f06b50085c
+Section: Widgets
+Description: Three mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: 3 Stencil widgets XI
+
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.2.1_iphoneos-arm.deb
+Size: 329284
+MD5sum: 09a0d5d6185f98b08e172a5821ba5c1d
+SHA1: 1146779fec7fedddc5e9a37071fea867cdf9f600
+SHA256: 3464a7b3e5d4ffd6bb0bb8e86d09244aac7fbb7eaf95dfd705e6d46b1cfa2ef9
+Section: Widgets
+Description: Three mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: Stencil widgets XI
+
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.2.8
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.2.8_iphoneos-arm.deb
+Size: 335318
+MD5sum: f36ef6d074c65724046553a5ab592ce0
+SHA1: 5d403a479d0ba8037db65648255fd417bc733d8f
+SHA256: 96bb75dbe1a597514126ca6e76b1ff7b5de3b435ec93542f744fe9d39f07aa00
+Section: Widgets
+Description: Four mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: Stencil widgets XI
+
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.3_iphoneos-arm.deb
+Size: 335470
+MD5sum: 4be3ff40bafd2a13dd370428f3f28af7
+SHA1: 3a8cd477feef1f9d6368a3f9f4a3c0dac5a3fddc
+SHA256: f06e5623972c3bd87b77625bc7eafabf25d456900e9a222826d9c85fb19cd3d4
+Section: Widgets
+Description: Four mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: Stencil widgets XI
+
 Package: com.jammytea.swzeppelin
 Version: 1.0
 Architecture: iphoneos-arm
@@ -61,4 +253,20 @@ Description: A group of logos from Star Wars to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.swzeppelin
 Name: Star Wars logos for Zeppelin
+
+Package: com.maddogyx.ios
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: com.anemonetheming.anemone
+Filename: ./debs/com.maddogyx.ios_1.2_iphoneos-arm.deb
+Size: 7484634
+MD5sum: d595974632a40fe92adb9b266d9dc4d3
+SHA1: 9fc7ad35dfb046af520bbb51c747882066818284
+SHA256: dda48fa6ef1ac89e7371f497f48147c8409a89b6171ec42c6fb6dae10cc55c0d
+Section: Themes
+Description: Theme your iDevice like a Mac
+Author: Maddogyx <m.timchack@yahoo.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.maddogyx.iosx
+Name: iOS X
 
