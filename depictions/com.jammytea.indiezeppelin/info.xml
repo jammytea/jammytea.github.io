@@ -1,13 +1,13 @@
 <package>
 	<id>com.jammytea.swzeppelin</id>
 	<name>Indie and punk logos for Zeppelin</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>com.alexzielenski.zeppelin</package>
+		<package></package>
 	</dependencies>
 	<shortDescription>A group of punk and indie logos to replace your carrier logo</shortDescription>
 	<descriptionlist>
@@ -20,7 +20,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Removed dependency</change>
 	</changelog>
 	<links></links>
 </package>

@@ -1,5 +1,9 @@
 <changelog>
-	<changes>
+		<changes>
+			<version>1.0</version>
+<change>Removed Zeppelin dependency as other tools now available</change>
+</changes>
+<changes>
 		<version>1.0</version>
 		<change>Initial release</change>
 	</changes>

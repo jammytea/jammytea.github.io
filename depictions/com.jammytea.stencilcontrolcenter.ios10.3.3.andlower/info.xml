@@ -1,19 +1,18 @@
 <package>
 	<id>com.jammytea.stencilcontrolcenter.ios10.3.3.andlower</id>
 	<name>Stencil Control Center</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
-			<maxiOS>10.3.3</maxiOS>
 		</firmware>
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Control Centre and other media controls for Stencil theme, removed from latest (ios11) version</shortDescription>
+	<shortDescription>Control Centre and other media controls for Stencil theme.</shortDescription>
 	<descriptionlist>
-		<description>Control Centre and other media controls for Stencil theme, removed from latest (ios11) version. Activate with Anemone.</description>
+		<description>Control Centre and other media controls for Stencil theme.</description>
 		<description><![CDATA[
 		Won't do anything on iOS above 10.3.3!
 		]]>
@@ -31,7 +30,7 @@
 	</screenshots>
 	<changelog>
 		<change>Initial release</change>
-		<change>Initial solo release of elements originally in Stencil theme</change>
+		<change>Removed dependency</change>
 	</changelog>
 	<links></links>
 </package>

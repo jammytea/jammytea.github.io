@@ -1,17 +1,17 @@
 <package>
 	<id>com.jammytea.resprings</id>
 	<name>Stencil respring animations</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 		</firmware>
 	</compatibility>
 	<dependencies>
-		<package>Anemone</package>
+		<package></package>
 	</dependencies>
 	<shortDescription>10 Stencil-ish respring animations</shortDescription>
 	<descriptionlist>
-		<description>A group of respring animations, to apply with Anemone. Remove MakeRespringsGreatAgain first.</description>
+		<description>A group of respring animations, to apply with one of several theme engines. Remove MakeRespringsGreatAgain first.</description>
 		<description>A few colourful Stencil spinners, and probably one or two too many based on the retro coloured Apple logo. Requests welcome.</description>
 	</descriptionlist>
 	<screenshots>
@@ -32,7 +32,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial release</change>
+		<change>Removed dependency</change>
 	</changelog>
 	<links></links>
 </package>
