@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Media controls for Stencil theme, includes ios11</shortDescription>
+	<shortDescription>Media controls for Stencil theme on ios11+</shortDescription>
 	<descriptionlist>
 		<description>Control Centre and other media controls for Stencil theme.</description>
 		<description><![CDATA[
