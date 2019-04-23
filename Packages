@@ -1,3 +1,19 @@
+Package: com.jammytea.agenda
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.agenda_1.0_iphoneos-arm.deb
+Size: 2860
+MD5sum: bb31de27c2799971b516c5d2b3eba49d
+SHA1: 04761c4cb61abdd75554360d73963cc25195a6df
+SHA256: 36362a4272aece058fe6cba3834a774a76170e3e95cd467fef9231cf061efe31
+Section: Widgets
+Description: Very basic custom 2-event agenda!
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.agenda
+Name: Basic agenda
+
 Package: com.jammytea.colorspinners
 Version: 1.1
 Architecture: iphoneos-arm

@@ -1,0 +1,24 @@
+<package>
+	<id>com.jammytea.agenda</id>
+	<name>Very basic agenda</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Fulfilling very basic agenda request!</description>
+	</descriptionlist>
+	<screenshots>
+</screenshots>
+	<changelog>
+		<change>launch</change>
+	</changelog>
+	<links></links>
+</package>
