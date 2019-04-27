@@ -159,15 +159,15 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccon
 Name: Stencil Music Control
 
 Package: com.jammytea.stencilsettingscustom
-Version: 1.1
+Version: 1.1.5
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stencilsettingscustom_1.1_iphoneos-arm.deb
-Size: 195122
-MD5sum: bb7bc68df5a54b8e944e84a474d58792
-SHA1: bf7eee6746d98a79ccf684dd4becd17b0c7087f9
-SHA256: 706d897146bc050d991f9fbfcb4b6e023703918e8e60b7949bafbf83a52fb5bb
+Filename: ./debs/com.jammytea.stencilsettingscustom_1.1.5_iphoneos-arm.deb
+Size: 322862
+MD5sum: de5df80a0cc672255d3137e779fd8a19
+SHA1: 2443e25cc01f4302aae1a72d34a46fdb17400296
+SHA256: 981d99d9e03c5d160f423a26e0c25070ffd208e218459dc77e6864d3243a12f9
 Section: Themes
 Description: Settings glyphs only for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
