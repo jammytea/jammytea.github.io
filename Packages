@@ -174,31 +174,15 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Name: Stencil Settings Custom
 
 Package: com.jammytea.stencilwidgetsxi
-Version: 1.3
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgetsxi_1.3_iphoneos-arm.deb
-Size: 335470
-MD5sum: 4be3ff40bafd2a13dd370428f3f28af7
-SHA1: 3a8cd477feef1f9d6368a3f9f4a3c0dac5a3fddc
-SHA256: f06e5623972c3bd87b77625bc7eafabf25d456900e9a222826d9c85fb19cd3d4
-Section: Widgets
-Description: Four mini home screen widgets needing XenInfo
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
-Name: Stencil widgets XI
-
-Package: com.jammytea.stencilwidgetsxi
-Version: 1.4
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgetsxi_1.4_iphoneos-arm.deb
-Size: 337308
-MD5sum: 13d0dfc43df7b101ff118ee01e17c9c7
-SHA1: a77a74dbb02a0d087c8c1d2302169b080808db1f
-SHA256: 07e5d0db71e5d288d51a77f9d5d27117fafc3f1d71a4d3312d65521e8f352ecd
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.5_iphoneos-arm.deb
+Size: 337446
+MD5sum: 53567e159eb920c9741811a9a0e76589
+SHA1: 78c86a93f553208ae6af7e1ac5045324219e9d9c
+SHA256: 68f24d5ea9bc2f17503f9b0bc610f4cbe7fc27141ea6d6b6e40cbcf51554c97a
 Section: Widgets
 Description: Six mini home screen widgets needing XenInfo
 Author: jammytea <jonathan.telfer@gmail.com>
