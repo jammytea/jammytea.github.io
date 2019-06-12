@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.musicwall</id>
-	<name>Music wall</name>
-	<version>1.0</version>
+	<name>Music wall and wallpaper filter</name>
+	<version>1.2</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Set your album art as wallpaper </shortDescription>
+	<shortDescription>Filter your wallpaper/slideshow, set album art while playing</shortDescription>
 	<descriptionlist>
-		<description>Set your currently playing album art as wallpaper, with customisable blur, and option for a background slideshow too. Needs XenInfo.</description>
+		<description>A simple Xen widget to apply various customised image filters (blur, sepia, saturation and grayscale) to your wallpaper or a slideshow of images from Unsplash. When music is playing, it switches to your currently playing album art. Needs XenInfo.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

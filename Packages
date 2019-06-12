@@ -62,6 +62,22 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.musicwall
 Name: Music wall
 
+Package: com.jammytea.musicwall
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.musicwall_1.2_iphoneos-arm.deb
+Size: 2266
+MD5sum: ac3935a34b14a770088da33587b78427
+SHA1: 248554dea5ca407fa6f9e5a4e350ddb5454e3014
+SHA256: 4a3c0a2334d4308de7cbd9db4a5b04456b152bf5917a968735923204b1d40bd7
+Section: Widgets
+Description: A widget to apply various filters to your wallpaper on the fly, switches to album artwork while music playing
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.musicwall
+Name: Music wall and filter
+
 Package: com.jammytea.resprings
 Version: 1.0
 Architecture: iphoneos-arm
