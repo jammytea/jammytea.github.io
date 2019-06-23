@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilwidgetsxi</id>
 	<name>Stencil widgets XI</name>
-	<version>1.5</version>
+	<version>1.6</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -14,7 +14,10 @@
 	<dependencies></dependencies>
 	<descriptionlist>
 		<description>Six little homescreen widgets matching Stencil theme, tailored to match the icon grid. Requires XenInfo to function and one of many other tweaks to actually display the widgets! Includes two now playing variants, two agenda variants, one picture gallery and an icon sized weather widget, each with loads of customisation options - check the settings panel to make sure you get it just right. And a special OCD wallpaper to help you line them up with your icon layout. </description>
-		<description>The main music widget now defaults to showing a gallery from Unsplash. You can still set it to be blank in the options or set your own image, by adding your own file "Artwork.jpg" to the widget folder</description>
+		<description>The main music widget now defaults to showing a gallery from Unsplash. You can still set it to be blank in the options or set your own image, by adding your own file "Artwork.jpg" to the widget folder
+		</description>
+		<description>In the mini music widget, the displayed icon now matches your choice of linked music app (requests welcome!).
+		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -28,7 +31,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added two agenda widgets</change>
+		<change>Fixed image refresh in galleries, added custom icons to mini music, fixed display of ongoing all-day events in agenda widgets.</change>
 	</changelog>
 	<links></links>
 </package>
