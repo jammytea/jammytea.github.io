@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-			<version>1.6</version>
+			<version>1.6.1</version>
 			<change>Fixed display of ongoing all-day events in agenda widgets</change>
 			<change>Added custom icons to match music app choice in mini music</change>
 			<change>Fixed background refresh interval for large music widget</change>
