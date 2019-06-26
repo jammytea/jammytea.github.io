@@ -1,0 +1,94 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "com.jammytea.stencilboxes",
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Highly customisable box widgets to frame elements on your homescreen",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/3.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/4.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/5.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "markdown": "NEW! Added filters to change the widgets' effect on your springboard wallpaper: blur, saturation, grayscale and sepia, in addition to the standard colouring options for a simpler look\r\n\r\nA simple widget to create boxes on your homescreen. Use them to frame your icons, widgets, or even to serve as a fully customisable dock.\r\n\r\nYou can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background, as well as add a slight diffuse glow effect. Not all changes are visible in the XenHTML preview, but accept your settings, then go back in, and the preview is correct, allowing you to place it properly. The boxes will now fully center on the Y-axis, making them easier to use as custom docks especially.\r\n\r\nThere are now two widgets included, one with basic options, and a second with hex value input, for 100% control over the colouring. I have removed the included wallpaper for now.\r\n"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.5",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-26-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Jammytea",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "headerImage": ""
+}

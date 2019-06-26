@@ -156,6 +156,7 @@ Section: Widgets
 Description: Highly customisable box widgets to frame elements on your homescreen
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilboxes/sileo.json
 Name: Stencil boxes
 
 Package: com.jammytea.stencilcc11
@@ -300,4 +301,3 @@ Description: Theme your iDevice like a Mac
 Author: Maddogyx <m.timchack@yahoo.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.maddogyx.iosx
 Name: iOS X
-
