@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilboxes</id>
 	<name>Stencil boxes</name>
-	<version>1.3</version>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -13,24 +13,28 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
+		<description>NEW! Added filters to change the widgets' effect on your springboard wallpaper: blur, saturation, grayscale and sepia, in addition to the standard colouring options for a simpler look</description>
 		<description>A simple widget to create boxes on your homescreen. Use them to frame your icons, widgets, or even to serve as a fully customisable dock.</description>
-		<description>You can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background, as well as add a slight diffuse glow effect. Not all changes are visible in the XenHTML preview, but accept your settings, then go back in, and the preview is correct, allowing you to place it properly. Also included is a wallpaper to help align your box relative to the icon grid. It will also center on the Y-axis.</description>
-		<description>There are now two widgets included, one with basic options, and a second with hex value input, for 100% control over the colouring.</description>
-
+		<description>You can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background, as well as add a slight diffuse glow effect. Not all changes are visible in the XenHTML preview, but accept your settings, then go back in, and the preview is correct, allowing you to place it properly. The boxes will now fully center on the Y-axis, making them easier to use as custom docks especially.</description>
+		<description>There are now two widgets included, one with basic options, and a second with hex value input, for 100% control over the colouring. I have removed the included wallpaper for now.</description>
+		<description>Thanks Jonathan Prime for ideas and inspiration!</description>
 	</descriptionlist>
 	<screenshots>	<screenshot>
-			<image>1.png</image>
+			<image>1.jpg</image>
 		</screenshot><screenshot>
 				<image>2.png</image>
 			</screenshot>
 			<screenshot>
-					<image>3.png</image>
+					<image>3.jpg</image>
 				</screenshot><screenshot>
 						<image>4.png</image>
 					</screenshot>
+					<screenshot>
+							<image>5.png</image>
+						</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added hex input version, more layout improvements</change>
+		<change>Fixed centering, added multiple background filter options</change>
 	</changelog>
 	<links></links>
 </package>

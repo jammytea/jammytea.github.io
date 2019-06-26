@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.5</version>
+		<change>Fixed centering. Added much more customisation</change>
+	</changes>
+	<changes>
 		<version>1.2</version>
 		<change>Added hex input version, more layout improvements</change>
 	</changes>
