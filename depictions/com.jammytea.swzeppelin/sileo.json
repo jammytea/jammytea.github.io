@@ -1,0 +1,78 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "com.jammytea.swzeppelin",
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Star Wars logos for Zeppelin",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.swzeppelin/screenshots/1.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "markdown": "Star Wars logos for Zeppelin"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-26-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Jammytea",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "headerImage": ""
+}

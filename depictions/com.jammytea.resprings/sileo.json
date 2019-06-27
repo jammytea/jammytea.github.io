@@ -1,0 +1,94 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "com.jammytea.resprings",
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "10 Stencil-ish respring animations",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.resprings/screenshots/1.gif"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.resprings/screenshots/2.gif"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.resprings/screenshots/3.gif"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.resprings/screenshots/4.gif"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.resprings/screenshots/5.gif"
+                        }
+                    ]
+                },
+                {
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "markdown": "A group of respring animations, to apply with one of several theme engines. Remove MakeRespringsGreatAgain first.\r\n\r\nA few colourful Stencil spinners, and probably one or two too many based on the retro coloured Apple logo. Requests welcome."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.1",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-26-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Jammytea",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "headerImage": ""
+}

@@ -1,0 +1,86 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "com.jammytea.musicwall",
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Filter your wallpaper/slideshow, set album art while playing",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.musicwall/screenshots/main.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.musicwall/screenshots/1.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.musicwall/screenshots/2.jpg"
+                        }
+                    ]
+                },
+                {
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "markdown": "A simple Xen widget to apply various customised image filters (blur, sepia, saturation and grayscale) to your wallpaper or a slideshow of images from Unsplash. When music is playing, it switches to your currently playing album art. Needs XenInfo"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-26-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Jammytea",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "headerImage": ""
+}

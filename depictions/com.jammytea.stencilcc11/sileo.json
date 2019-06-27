@@ -1,0 +1,86 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "title": "com.jammytea.stencilcc11",
+                    "useBottomMargin": false,
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true
+                },
+                {
+                    "markdown": "Full theme for the iOS11+ control center",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 275.41333333333336}",
+                    "class": "DepictionScreenshotsView",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilcc11/screenshots/1.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilcc11/screenshots/2.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilcc11/screenshots/3.png"
+                        }
+                    ]
+                },
+                {
+                    "title": "markdown-description",
+                    "useBottomMargin": false,
+                    "class": "DepictionMarkdownView",
+                    "useBoldText": true,
+                    "markdown": "Full theme for the control center, includes all currently themable elements, plus ALL FlipConvert, CCModules and EzCC toggles, PowerSelector and LDRestart. Some animated stock items are not yet themable. Yet...\r\n\r\nFor some reason, Bluetooth and Wifi will only theme using BetterCCIcons glyphs mode. Installing this theme adds alternative glyphs to the BetterCCIcons PreferenceBundle folder, and require manually renaming to replace the original files. Everything else is activated through Anemone, but you may need to respring or UICache to get them to show.\r\n\r\nMatching media controls are available separately through my repo."
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "title": "Version",
+                    "text": "1.2",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Released",
+                    "text": "06-26-2019",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "title": "Price",
+                    "text": "Free",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "title": "Developer",
+                    "text": "Jammytea",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#0657bb",
+    "minVersion": "0.1",
+    "headerImage": ""
+}

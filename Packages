@@ -20,15 +20,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.jammytea.agenda_1.2_iphoneos-arm.deb
-Size: 2938
-MD5sum: 5869e92fb22d21976fc3aed6bb60f6f1
-SHA1: 1fa4f4721c7b1fbb943d7ee89b2869353d93b8a4
-SHA256: 638b309aa20c709c09bda99ded7168a0ec1bc59e700b9ff63d1c661e9f6bdbc9
+Size: 2958
+MD5sum: 777e95baf4c7f884f9cfe2282b21eb37
+SHA1: f61bed40d084d9e48b5b34367fcb2fbf5a0f9765
+SHA256: 7ed79704d65e4d41d748a4606ce42c4f2063ecf8d6921a14c83f8b290ac781ae
 Section: Widgets
 Description: Very basic custom 2-event agenda!
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.agenda
 Name: Basic agenda
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.agenda/sileo.json
 
 Package: com.jammytea.colorspinners
 Version: 1.1
@@ -36,15 +37,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.colorspinners_1.1_iphoneos-arm.deb
-Size: 235966
-MD5sum: 560e533290d921cd5f04fd2a1b947d9b
-SHA1: a30b8ecd832da01b48fe5e2634ca8687d8e3691c
-SHA256: 826087b585e652f0e500ae86044a84d5913853eebfe48ceb1c840faad4a8bdbd
+Size: 235986
+MD5sum: b37395a3b672dbc289180d1a2748c370
+SHA1: 72c088845a3088075f9f6b00633e156bcdbfc41d
+SHA256: 354cc5ccb87a8b607afc0c092eab6ca6e41249c571b497a3905ef11c73bcb594
 Section: Themes
 Description: Simple alt UI spinners for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.colorspinners
 Name: Coloured Stencil activity spinners
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.colorspinners/sileo.json
 
 Package: com.jammytea.indiezeppelin
 Version: 1.1
@@ -52,15 +54,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.indiezeppelin_1.1_iphoneos-arm.deb
-Size: 18996
-MD5sum: ff0950aff740aa0396300018ea00a62b
-SHA1: c57d60729a1de3fba6c4323e83c1ed7459ce3803
-SHA256: e6f0ed57db8007ba5ec605c3d4e28dd8863935f92f8a687a6358fc8e3dbfa0af
+Size: 19014
+MD5sum: 9e4c3c85b1229debdb19678648673e3d
+SHA1: 8204ec2340a62dd1a3d0c3ed6ea3fa4e0ac0fe02
+SHA256: 2ed0ce3d0563149262f509b77434608d929abc4f8ac13c11beed0e72ab5281bd
 Section: Themes
 Description: A group of punk and indie logos to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
 Name: Indie music logos for Zeppelin
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
 
 Package: com.jammytea.musicwall
 Version: 1.1
@@ -84,15 +87,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.jammytea.musicwall_1.2_iphoneos-arm.deb
-Size: 2266
-MD5sum: ac3935a34b14a770088da33587b78427
-SHA1: 248554dea5ca407fa6f9e5a4e350ddb5454e3014
-SHA256: 4a3c0a2334d4308de7cbd9db4a5b04456b152bf5917a968735923204b1d40bd7
+Size: 2286
+MD5sum: 3196b6baf433e3af653ee5c2a88710fa
+SHA1: fb6697e32c955e3df97191fc07cfbe7985f14048
+SHA256: aef42f64f8a7073d41839df2e918a43e79318b3d810b7d1ec0face800ee81929
 Section: Widgets
 Description: A widget to apply various filters to your wallpaper on the fly, switches to album artwork while music playing
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.musicwall
 Name: Music wall and filter
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.musicwall/sileo.json
 
 Package: com.jammytea.resprings
 Version: 1.0
@@ -100,15 +104,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.jammytea.resprings_1.0_iphoneos-arm.deb
-Size: 767964
-MD5sum: 22fd5cbf5e9837b82047cfa4737805e9
-SHA1: 3fd8bd37bc52a3de16b571f3189ff1ec99da2844
-SHA256: afe73402416b1c09a8777b1d1941d699ae2fbdeef34d8c0989d06f2cd38c6e06
+Size: 767982
+MD5sum: c7fab576eefcfe4a2c6782f72e5bd9fe
+SHA1: c82c9d757d97a89872119e069a179a3fd758c9fe
+SHA256: e0b407a3066f941f42710c1673c34cbff033c6d6710d3c8e44f4631b9edfc283
 Section: Themes
 Description: 10 Stencil-ish respring animations
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.resprings
 Name: Stencil-ish respring logos
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.resprings/sileo.json
 
 Package: com.jammytea.stencilbattery.ios10.3.3.andlower
 Version: 1.1
@@ -116,15 +121,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.stencilbattery.ios10.3.3.andlower_1.1_iphoneos-arm.deb
-Size: 11618
-MD5sum: f6df855c5c5041f8cd3b82545551bec9
-SHA1: 3ceb738b9a3250bb6a50964d1143a0fb2f9e427e
-SHA256: dd3b5b7cc00fc99d4004b226df687471bb725c2dbdd1df42c5eb0ef7d342e6bd
+Size: 11636
+MD5sum: 0c302498a37f4eb09b5f77dcfa08cfa8
+SHA1: 4a002167059081de8f49a2b94133f742ffeb2603
+SHA256: 94fe2a85e727d069d6b7181bd58fb66175bb301836353a8c9447584d3c918a5e
 Section: Themes
 Description: Battery for Stencil theme removed from latest (ios11) version
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.ios10.3.3.andlower
 Name: Stencil Battery for 10.3.3 and lower
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilbattery.ios10.3.3.andlower/sileo.json
 
 Package: com.jammytea.stencilboxes
 Version: 1.2
@@ -148,16 +154,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.jammytea.stencilboxes_1.5_iphoneos-arm.deb
-Size: 2486
-MD5sum: 301ee51dbd195e8e5446cacf6fc525ae
-SHA1: 0c3e438f3ba10dc0c57a950631cab79108172de9
-SHA256: 04fc77b808cfb04afdcb467fc375c1b0ca6ce802d9e886eb4f47da61b623dec1
+Size: 2502
+MD5sum: 8fa32b6ce50fbd31eaf0db8037bf011d
+SHA1: ed3006c6a40871ab74af376f7f9dc07db1076786
+SHA256: 36313b0d446c2b5a5befba4ebfc84c1bfc0ed1fd8f0be7c850d110cb12cceb9a
 Section: Widgets
 Description: Highly customisable box widgets to frame elements on your homescreen
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
-SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilboxes/sileo.json
 Name: Stencil boxes
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilboxes/sileo.json
 
 Package: com.jammytea.stencilcc11
 Version: 1.3
@@ -165,15 +171,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.stencilcc11_1.3_iphoneos-arm.deb
-Size: 1179004
-MD5sum: 60c82dc99b200e97fe3a5761ddd53cce
-SHA1: 732f3a75f7c9b23d1b4b1d5966dcd6268abdb65a
-SHA256: a773f9f01474fc2f9aedbab757166edf93b0f7a6c29cf796c1f7d6785bfbc100
+Size: 1179018
+MD5sum: 28001895dda52db5a0fd5b1fb17a9f80
+SHA1: 35786ff9057972a316232d28b5b7b320e729f89d
+SHA256: 222fe653fb21f73bc592be38050d1986123ce799cd94136d4d49de8b15daa420
 Section: Themes
 Description: Control Center for Stencil theme on iOS11+
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcc11
 Name: Stencil Control Center
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilcc11/sileo.json
 
 Package: com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
 Version: 1.1
@@ -181,15 +188,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower_1.1_iphoneos-arm.deb
-Size: 31312
-MD5sum: 810c2f48268611333446b66d34a9296d
-SHA1: 8df7f5617595b0356e980b390db06560ec02628f
-SHA256: 52efe6fa4d39534f9055a87bfca518ab045eda7f8fd42d046fbab799aef5bb27
+Size: 31332
+MD5sum: bb6a3de8ea3db417d12c7dbba60c2252
+SHA1: 97149c3d60c1991a94fc9380aed3f9838a955985
+SHA256: f776f0be2a15347c01520891e76d052e371bd35fc4cacb2c6b59db5f298328a8
 Section: Themes
 Description: Control Centre and other media controls for Stencil theme, removed from latest (ios11) version
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcontrolcenter.ios10.3.3.andlower
 Name: Stencil Control Centre for 10.3.3 and lower
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower/sileo.json
 
 Package: com.jammytea.stencilmusiccontrol
 Version: 1.4
@@ -197,15 +205,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.stencilmusiccontrol_1.4_iphoneos-arm.deb
-Size: 8354
-MD5sum: c548a7e7644727c74df66f0a92c1ed1b
-SHA1: bcb099f3e6166d63f7b1959cdaec5a649466732e
-SHA256: d8c4da7bd5667de129077e28fc846d3bc57acc14f209889fa8ea068f83c47fb3
+Size: 21834
+MD5sum: 3644e96ff4942f79c425c74bb3a633e9
+SHA1: d471de0dcd0a4937d8d21cd7133e3c6a3602ca17
+SHA256: a702b6d0c00258cb4ca9c84783e066314fae512267a882cd5aa3d106f157b8f0
 Section: Themes
 Description: Media controls for Stencil theme on ios11+
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccontrol
 Name: Stencil Music Control
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilmusiccontrol/sileo.json
 
 Package: com.jammytea.stencilsettingscustom
 Version: 1.1.5
@@ -221,6 +230,23 @@ Section: Themes
 Description: Settings glyphs only for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
 Name: Stencil Settings Custom
+
+Package: com.jammytea.stencilwidgets
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgets_1.2_iphoneos-arm.deb
+Size: 255900
+MD5sum: 3996a5293b7a101780ed1226cb39729c
+SHA1: 1facddbada5c40ac9a55f15fd4ccd10dab2e058d
+SHA256: 651023f6f0b25d99b1ac06e15bd1edc24620b6d38fcc896f2f96e6401cc0076c
+Section: Widgets
+Description: Five mini home screen widgets needing Infostats2
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets
+Name: 5 lil Stencil widgets IS2
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilwidgets/sileo.json
 
 Package: com.jammytea.stencilwidgetsxi
 Version: 1.5
@@ -260,15 +286,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
 Filename: ./debs/com.jammytea.stencilwidgetsxi_1.6.1_iphoneos-arm.deb
-Size: 356788
-MD5sum: 79f4509ce20af62c93d09f8ebcb0cf3a
-SHA1: 5344a0b99b2b5383dfa8512c9423ae29d02af536
-SHA256: fb1d6ce3c62fa0518c72644e940b86106b601279108bd76b75c9212c8a925612
+Size: 356806
+MD5sum: cf4884daa99ca24c293514ddac364b96
+SHA1: c7840577279b7e39800a78202e1b74c9732ed5db
+SHA256: d938a37e0501edb74569c5f062932e7274ffec8fabb03b97f6913248f679a72d
 Section: Widgets
 Description: Six mini home screen widgets needing XenInfo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
 Name: Stencil widgets XI
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.stencilwidgets11/sileo.json
 
 Package: com.jammytea.swzeppelin
 Version: 1.1
@@ -276,15 +303,16 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.swzeppelin_1.1_iphoneos-arm.deb
-Size: 21314
-MD5sum: 9776a6a3758af5aa6941efe6b7dddfe7
-SHA1: b696d799e69d037926c545d927281ff03be6d555
-SHA256: 5aaf1ab4f5c18cc68ae023d0d64a3fd4f7129ab5b424d24552b449b39037214f
+Size: 21328
+MD5sum: de4aa13ffcc9e570a807079270b01c6f
+SHA1: 792b51907650ac26ecc6ef4758b357da5241e4ea
+SHA256: 68c5561046e29c64e3f6355238658f96e626be9aafda8d08a5c2bc71bd4bdc13
 Section: Themes
 Description: A group of logos from Star Wars to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.swzeppelin
 Name: Star Wars logos for Zeppelin
+SileoDepiction: https://jammytea.github.io/depictions/com.jammytea.swzeppelin/sileo.json
 
 Package: com.maddogyx.ios
 Version: 1.2
@@ -292,12 +320,13 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.maddogyx.ios_1.2_iphoneos-arm.deb
-Size: 7484634
-MD5sum: d595974632a40fe92adb9b266d9dc4d3
-SHA1: 9fc7ad35dfb046af520bbb51c747882066818284
-SHA256: dda48fa6ef1ac89e7371f497f48147c8409a89b6171ec42c6fb6dae10cc55c0d
+Size: 7484654
+MD5sum: 1e72da447bdab793efeaaab84c91b97e
+SHA1: 34fc2d6a1f2cbae73d7d86530e6f2b733288ebaa
+SHA256: eaa16382e1cc696554d999e53b2c9a1bec8f32ffda0877183eefd3dbce110930
 Section: Themes
 Description: Theme your iDevice like a Mac
 Author: Maddogyx <m.timchack@yahoo.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.maddogyx.iosx
 Name: iOS X
+SileoDepiction: https://jammytea.github.io/depictions/com.maddogyx.iosx/sileo.json
