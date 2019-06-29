@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilcc11</id>
 	<name>Stencil Control Center</name>
-	<version>1.2</version>
+	<version>1.4</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -28,7 +28,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Removed dependency</change>
+		<change>Cleaned up icons</change>
 	</changelog>
 	<links></links>
 </package>
