@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.5</version>
+		<change>Improved for 12 and added some extra bits</change>
+	</changes>
+	<changes>
 		<version>1.3</version>
 		<change>Removed dependency</change>
 	</changes>

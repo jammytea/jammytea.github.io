@@ -1,20 +1,4 @@
 Package: com.jammytea.agenda
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.agenda_1.1_iphoneos-arm.deb
-Size: 2894
-MD5sum: 2dc9b18d71e109f0c58fdf16bb28b41a
-SHA1: a1ee3742cb9154eac5728eee2566dd1f8f750085
-SHA256: eb050fdbb034083bec5cd165e78f69677e2addb61196b81db1afbfac5d782f7c
-Section: Widgets
-Description: Very basic custom 2-event agenda!
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.agenda
-Name: Basic agenda
-
-Package: com.jammytea.agenda
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
@@ -64,22 +48,6 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
 Name: Indie music logos for Zeppelin
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
-
-Package: com.jammytea.musicwall
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.musicwall_1.1_iphoneos-arm.deb
-Size: 2102
-MD5sum: fb542cfc866e8c67c6e5004bd9c5ff25
-SHA1: e23d4cb779df24d47a21728c5424c60c136ba6e1
-SHA256: ad95711f74fe75a866f9128684f8df694fa3716b7b91705fc58925754c34e59c
-Section: Widgets
-Description: A wallpaper widget, switches to album artwork while music playing
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.musicwall
-Name: Music wall
 
 Package: com.jammytea.musicwall
 Version: 1.2
@@ -133,22 +101,6 @@ Name: Stencil Battery for 10.3.3 and lower
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilbattery.ios10.3.3.andlower/sileo.json
 
 Package: com.jammytea.stencilboxes
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilboxes_1.2_iphoneos-arm.deb
-Size: 7846
-MD5sum: df10a576bc0ed28804b996c930638cb5
-SHA1: 69c37ccc1478dd478ee9950ce68978c02407be3d
-SHA256: bd952dc916b80be84cd81bf2f5782e6c86e84f539d30cb151b67c49e7b882561
-Section: Widgets
-Description: Customisable box widget to frame elements on your homescreen
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
-Name: Stencil boxes
-
-Package: com.jammytea.stencilboxes
 Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
@@ -164,23 +116,6 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilboxes
 Name: Stencil boxes
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilboxes/sileo.json
-
-Package: com.jammytea.stencilcc11
-Version: 1.3
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stencilcc11_1.3_iphoneos-arm.deb
-Size: 1179018
-MD5sum: 28001895dda52db5a0fd5b1fb17a9f80
-SHA1: 35786ff9057972a316232d28b5b7b320e729f89d
-SHA256: 222fe653fb21f73bc592be38050d1986123ce799cd94136d4d49de8b15daa420
-Section: Themes
-Description: Control Center for Stencil theme on iOS11+
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilcc11
-Name: Stencil Control Center
-Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilcc11/sileo.json
 
 Package: com.jammytea.stencilcc11
 Version: 1.4
@@ -217,15 +152,15 @@ Name: Stencil Control Centre for 10.3.3 and lower
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilcontrolcenter.ios10.3.3.andlower/sileo.json
 
 Package: com.jammytea.stencilmusiccontrol
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stencilmusiccontrol_1.4_iphoneos-arm.deb
-Size: 21834
-MD5sum: 3644e96ff4942f79c425c74bb3a633e9
-SHA1: d471de0dcd0a4937d8d21cd7133e3c6a3602ca17
-SHA256: a702b6d0c00258cb4ca9c84783e066314fae512267a882cd5aa3d106f157b8f0
+Filename: ./debs/com.jammytea.stencilmusiccontrol_1.5_iphoneos-arm.deb
+Size: 23330
+MD5sum: c02693ad6a107028eef0e0b636939af8
+SHA1: 4764a1f785f849c3647ae49b1a1aa888d2ea4c56
+SHA256: bb5d2ca889b9472417f167cc1e8e4a44a816339701c69f8d112debabcc805a9e
 Section: Themes
 Description: Media controls for Stencil theme on ios11+
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -264,38 +199,6 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets
 Name: 5 lil Stencil widgets IS2
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilwidgets/sileo.json
-
-Package: com.jammytea.stencilwidgetsxi
-Version: 1.5
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgetsxi_1.5_iphoneos-arm.deb
-Size: 337446
-MD5sum: 53567e159eb920c9741811a9a0e76589
-SHA1: 78c86a93f553208ae6af7e1ac5045324219e9d9c
-SHA256: 68f24d5ea9bc2f17503f9b0bc610f4cbe7fc27141ea6d6b6e40cbcf51554c97a
-Section: Widgets
-Description: Six mini home screen widgets needing XenInfo
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
-Name: Stencil widgets XI
-
-Package: com.jammytea.stencilwidgetsxi
-Version: 1.6
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.stencilwidgetsxi_1.6_iphoneos-arm.deb
-Size: 356794
-MD5sum: 0a16d5ca3bcdf5f83f4bc1b3bf4d52e3
-SHA1: 4566c67007055dc45e2e54f1e69a23aa98338156
-SHA256: a0aff5b59de2cf01cbc11b9d72877b006a27f934d2c857b60707a89997422ca6
-Section: Widgets
-Description: Six mini home screen widgets needing XenInfo
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
-Name: Stencil widgets XI
 
 Package: com.jammytea.stencilwidgetsxi
 Version: 1.6.1
