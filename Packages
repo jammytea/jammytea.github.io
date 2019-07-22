@@ -33,20 +33,20 @@ Name: Coloured Stencil activity spinners
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.colorspinners/sileo.json
 
 Package: com.jammytea.indiezeppelin
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.indiezeppelin_1.1_iphoneos-arm.deb
-Size: 19014
-MD5sum: 9e4c3c85b1229debdb19678648673e3d
-SHA1: 8204ec2340a62dd1a3d0c3ed6ea3fa4e0ac0fe02
-SHA256: 2ed0ce3d0563149262f509b77434608d929abc4f8ac13c11beed0e72ab5281bd
+Filename: ./debs/com.jammytea.indiezeppelin_1.2_iphoneos-arm.deb
+Size: 33130
+MD5sum: e2cb0e7e6ecf241569b3ebeaa6f7443d
+SHA1: 08ec9238df0e5ba0b6e15751b20b10588466b6c2
+SHA256: 5e17412f71a4451440e7342ba92266fccfbb9a613dadb2d8aeb29aec969f8ca1
 Section: Themes
 Description: A group of punk and indie logos to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
-Name: Indie music logos for Zeppelin
+Name: Indie music logos
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
 
 Package: com.jammytea.musicwall
