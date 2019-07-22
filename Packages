@@ -124,9 +124,9 @@ Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.stencilcc11_1.4_iphoneos-arm.deb
 Size: 1127134
-MD5sum: cbf1c4dc31d99cae186541318ab8c081
-SHA1: 22e2d832c3c7ec6dcb47cef45b4430612f76489f
-SHA256: 4695efb525d2aa02c6bbbe7f932e75c08fe2a26e3f39ce3b4476357f0fb6f5da
+MD5sum: dea51c1d9a012578cb780743daa21454
+SHA1: 28d59ac8b303aada6b0953f91988b6650a7a60f1
+SHA256: a6465e7ffcb0c7dafd8bdfbde53bbd1f6cfddb2a061dcfbef0304f4555e44ae9
 Section: Themes
 Description: Control Center for Stencil theme on iOS11+
 Author: jammytea <jonathan.telfer@gmail.com>
