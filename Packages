@@ -38,10 +38,10 @@ Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.jammytea.indiezeppelin_1.2_iphoneos-arm.deb
-Size: 33130
-MD5sum: e2cb0e7e6ecf241569b3ebeaa6f7443d
-SHA1: 08ec9238df0e5ba0b6e15751b20b10588466b6c2
-SHA256: 5e17412f71a4451440e7342ba92266fccfbb9a613dadb2d8aeb29aec969f8ca1
+Size: 34290
+MD5sum: 1283c63eb940d7e7010da20644355dcc
+SHA1: 69a190b4237b36b666314d225310bcc9e8d0f57c
+SHA256: 2d840468fd53c6a9905c3eafe7e7abc382741b9e328f420a2664bfe4f7f8eccb
 Section: Themes
 Description: A group of punk and indie logos to replace your carrier logo
 Author: jammytea <jonathan.telfer@gmail.com>
