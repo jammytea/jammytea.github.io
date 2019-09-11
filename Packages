@@ -49,6 +49,23 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
 Name: Indie music logos
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
 
+Package: com.jammytea.indiezeppelin
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.jammytea.indiezeppelin_1.3_iphoneos-arm.deb
+Size: 42224
+MD5sum: 7494d13c7e54f750c51821f771f3dc96
+SHA1: 5db033af9869d7c15120c744fd6d09aaa1c1da0f
+SHA256: b9a57d007e02ca217e3cf0d255401e6d3c8854420bca28c0fc0fe50b77100b8e
+Section: Themes
+Description: A group of punk and indie logos to replace your carrier logo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
+Name: Indie music logos
+Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
+
 Package: com.jammytea.musicwall
 Version: 1.2
 Architecture: iphoneos-arm
