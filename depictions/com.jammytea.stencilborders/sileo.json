@@ -4,13 +4,13 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "title": "com.jammytea.stencilboxes",
+                    "title": "com.jammytea.stencilborders",
                     "useBottomMargin": false,
                     "class": "DepictionSubheaderView",
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Highly customisable box widgets to frame elements on your homescreen",
+                    "markdown": "The most customisable theme around just got bigger.",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -25,23 +25,27 @@
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot0",
-                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/1.jpg"
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilborders/screenshots/1.jpg"
                         },
                         {
                             "accessibilityText": "Screenshot1",
-                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/2.png"
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilborders/screenshots/2.jpg"
                         },
                         {
                             "accessibilityText": "Screenshot2",
-                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/3.jpg"
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilborders/screenshots/3.jpg"
                         },
                         {
                             "accessibilityText": "Screenshot3",
-                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/4.png"
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilborders/screenshots/4.jpg"
                         },
                         {
                             "accessibilityText": "Screenshot4",
-                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilboxes/screenshots/5.png"
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilborders/screenshots/5.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://jammytea.github.io/depictions/com.jammytea.stencilborders/screenshots/6.jpg"
                         }
                     ]
                 },
@@ -50,19 +54,19 @@
                     "useBottomMargin": false,
                     "class": "DepictionMarkdownView",
                     "useBoldText": true,
-                    "markdown": "NEW! Added filters to change the widgets' effect on your springboard wallpaper: blur, saturation, grayscale and sepia, in addition to the standard colouring options for a simpler look\r\n\r\nA simple widget to create boxes on your homescreen. Use them to frame your icons, widgets, or even to serve as a fully customisable dock.\r\n\r\nYou can add as many boxes as you want with XenHTML, and customise the size, corner radius, border width, colour and background, as well as add a slight diffuse glow effect. Not all changes are visible in the XenHTML preview, but accept your settings, then go back in, and the preview is correct, allowing you to place it properly. The boxes will now fully center on the Y-axis, making them easier to use as custom docks especially.\r\n\r\nThere are now two widgets included, one with basic options, and a second with hex value input, for 100% control over the colouring. I have removed the included wallpaper for now.\r\n"
+                    "markdown": "Designed to perfectly match the Stencil themes, this is a set of 13 icon borders and folder icons/backgrounds so you can personalise the theme even further - pair a border outline of one colour with an icon set of another. But they also look great with any other glyph themes.\r\n\r\nIncluded are sets to match each variant of Stencil, with black, white, the full set of Spectrum colours, and two special new rainbow styles.\r\n\r\nAlthough they were designed to frame the glyph sets, they work just as well with the outlined icon versions, so you can use the standard, multicoloured icons but all framed in the same colour, to really tie your Springboard together.\r\n\r\nStacking makes a difference too - put the icon theme to the top to remove folders, put your border to the top to theme your folder the same as the icons, or put a folder theme to the top to have a different colour. With Snowboard (for which you need the Icon Effects Extension), you can also pair the borders with one of the backgrounds from Stencil Backgrounds (downloaded separately) for even more possibilities.\r\n"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
                     "title": "Version",
-                    "text": "1.5",
+                    "text": "1.0",
                     "class": "DepictionTableTextView"
                 },
                 {
                     "title": "Released",
-                    "text": "06-26-2019",
+                    "text": "09-17-2019",
                     "class": "DepictionTableTextView"
                 },
                 {
