@@ -201,15 +201,15 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Name: Stencil Settings Custom
 
 Package: com.jammytea.stenciltunnels
-Version: 0.1
+Version: 0.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stenciltunnels_0.1_iphoneos-arm.deb
-Size: 164372
-MD5sum: 52d0ab239ee35195d7279250c9526e05
-SHA1: b1ca762236bf5de470f33e174655c9b5da65150f
-SHA256: e96dc25250ea8b1909a85993f965e9037c0fed97fbab3ec519d16db8740b7dea
+Filename: ./debs/com.jammytea.stenciltunnels_0.2_iphoneos-arm.deb
+Size: 164374
+MD5sum: 12c732c89d5c06e2b3c40653cedf0755
+SHA1: 6fef1ff30826328f49ed8de81de1111fd48b0fc7
+SHA256: 680b7cfeadf7078b9666d6df7d379da1775ada9545800a0f676b34c7ea48f41e
 Section: Themes
 Description: Icon effects to offset Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
