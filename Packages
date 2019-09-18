@@ -117,23 +117,6 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilbattery.
 Name: Stencil Battery for 10.3.3 and lower
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilbattery.ios10.3.3.andlower/sileo.json
 
-Package: com.jammytea.stencilborders
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stencilborders_1.0_iphoneos-arm.deb
-Size: 110216
-MD5sum: a501737fbb1e487cb48bc77f64b5f5fb
-SHA1: 2caaf2386236fa20b343113a0577ede13995da02
-SHA256: c418ead6b84ee3c6f4f20ad469c3ef9ed5a4ad6748dba7bae51b1f1dfedba4f0
-Section: Themes
-Description: The most customisable theme around just got even bigger - border outlines for Stencil and other glyph theme
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilborders
-Name: Stencil Borders
-Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilborders/sileo.json
-
 Package: com.jammytea.stencilboxes
 Version: 1.5
 Architecture: iphoneos-arm
