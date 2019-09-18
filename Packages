@@ -200,6 +200,23 @@ Description: Settings glyphs only for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
 Name: Stencil Settings Custom
 
+Package: com.jammytea.stenciltunnels
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.jammytea.stenciltunnels_0.1_iphoneos-arm.deb
+Size: 164372
+MD5sum: 52d0ab239ee35195d7279250c9526e05
+SHA1: b1ca762236bf5de470f33e174655c9b5da65150f
+SHA256: e96dc25250ea8b1909a85993f965e9037c0fed97fbab3ec519d16db8740b7dea
+Section: Themes
+Description: Icon effects to offset Stencil theme
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stenciltunnels
+Name: Stencil AE Tunnels
+Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stenciltunnels/sileo.json
+
 Package: com.jammytea.stencilwidgets
 Version: 1.2
 Architecture: iphoneos-arm
@@ -250,23 +267,6 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.swzeppelin
 Name: Star Wars logos for Zeppelin
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.swzeppelin/sileo.json
-
-Package: com.macciti.stenciltunnels
-Version: 0.1
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.macciti.stenciltunnels_0.1_iphoneos-arm.deb
-Size: 164380
-MD5sum: 367e401f53635115b9d8827c953a3343
-SHA1: bdd47fe0c9907194b39e35f8d014bef3f6fdd8d9
-SHA256: a7f05ee9741048b12d750a2a795c28ae1444d5d5b6d59096b5a326cb4cefa4f0
-Section: Themes
-Description: Icon effects to offset Stencil theme
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stenciltunnels
-Name: Stencil AE Tunnels
-Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stenciltunnels/sileo.json
 
 Package: com.maddogyx.ios
 Version: 1.2
