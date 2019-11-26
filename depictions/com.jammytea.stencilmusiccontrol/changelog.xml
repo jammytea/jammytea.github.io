@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.6</version>
+		<change>Snowboard previews</change>
+	</changes>
+	<changes>
 		<version>1.5</version>
 		<change>Improved for 12 and added some extra bits</change>
 	</changes>

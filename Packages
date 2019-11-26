@@ -16,38 +16,21 @@ Name: Basic agenda
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.agenda/sileo.json
 
 Package: com.jammytea.colorspinners
-Version: 1.1
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.colorspinners_1.1_iphoneos-arm.deb
-Size: 235986
-MD5sum: b37395a3b672dbc289180d1a2748c370
-SHA1: 72c088845a3088075f9f6b00633e156bcdbfc41d
-SHA256: 354cc5ccb87a8b607afc0c092eab6ca6e41249c571b497a3905ef11c73bcb594
+Filename: ./debs/com.jammytea.colorspinners_1.2_iphoneos-arm.deb
+Size: 236022
+MD5sum: 82c664522bab82977f9ba033bb35cf23
+SHA1: 3150fff453b71c8502385425a95e0bf45a459817
+SHA256: 2a2552b7d0d6b70d8769b72217159dc0f2bb32ff97440377dc074575fc983c12
 Section: Themes
 Description: Simple alt UI spinners for Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
 Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.colorspinners
 Name: Coloured Stencil activity spinners
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.colorspinners/sileo.json
-
-Package: com.jammytea.indiezeppelin
-Version: 1.2
-Architecture: iphoneos-arm
-Maintainer: jammytea <jonathan.telfer@gmail.com>
-Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.indiezeppelin_1.2_iphoneos-arm.deb
-Size: 34290
-MD5sum: 1283c63eb940d7e7010da20644355dcc
-SHA1: 69a190b4237b36b666314d225310bcc9e8d0f57c
-SHA256: 2d840468fd53c6a9905c3eafe7e7abc382741b9e328f420a2664bfe4f7f8eccb
-Section: Themes
-Description: A group of punk and indie logos to replace your carrier logo
-Author: jammytea <jonathan.telfer@gmail.com>
-Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.indiezeppelin
-Name: Indie music logos
-Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
 
 Package: com.jammytea.indiezeppelin
 Version: 1.3
@@ -84,15 +67,15 @@ Name: Music wall and filter
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.musicwall/sileo.json
 
 Package: com.jammytea.resprings
-Version: 1.0
+Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.resprings_1.0_iphoneos-arm.deb
-Size: 767982
-MD5sum: c7fab576eefcfe4a2c6782f72e5bd9fe
-SHA1: c82c9d757d97a89872119e069a179a3fd758c9fe
-SHA256: e0b407a3066f941f42710c1673c34cbff033c6d6710d3c8e44f4631b9edfc283
+Filename: ./debs/com.jammytea.resprings_1.2_iphoneos-arm.deb
+Size: 768166
+MD5sum: 30e223041b42e17361a53434c78c6a19
+SHA1: 522ab436df32f81afa3e0faf5084dc00a850cfcb
+SHA256: d81f08cf165fb4e3fcb1275196ac0de50ab932d3b7765b9dadf6a954f380decb
 Section: Themes
 Description: 10 Stencil-ish respring animations
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -135,15 +118,15 @@ Name: Stencil boxes
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilboxes/sileo.json
 
 Package: com.jammytea.stencilcc11
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stencilcc11_1.4_iphoneos-arm.deb
-Size: 1127134
-MD5sum: dea51c1d9a012578cb780743daa21454
-SHA1: 28d59ac8b303aada6b0953f91988b6650a7a60f1
-SHA256: a6465e7ffcb0c7dafd8bdfbde53bbd1f6cfddb2a061dcfbef0304f4555e44ae9
+Filename: ./debs/com.jammytea.stencilcc11_1.5_iphoneos-arm.deb
+Size: 1127202
+MD5sum: c3d21f3f8f15c50c73d50354d9189f82
+SHA1: 36a57d9089b12eb7eb0f7982dc148c8b02febbc7
+SHA256: 773c34862b335df65543cb866e19ee111fb0047dbedc7c9cbb1da581bc2be498
 Section: Themes
 Description: Control Center for Stencil theme on iOS11+
 Author: jammytea <jonathan.telfer@gmail.com>
@@ -201,15 +184,15 @@ Author: jammytea <jonathan.telfer@gmail.com>
 Name: Stencil Settings Custom
 
 Package: com.jammytea.stenciltunnels
-Version: 0.2
+Version: 0.3
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.jammytea.stenciltunnels_0.2_iphoneos-arm.deb
-Size: 164374
-MD5sum: 12c732c89d5c06e2b3c40653cedf0755
-SHA1: 6fef1ff30826328f49ed8de81de1111fd48b0fc7
-SHA256: 680b7cfeadf7078b9666d6df7d379da1775ada9545800a0f676b34c7ea48f41e
+Filename: ./debs/com.jammytea.stenciltunnels_0.3_iphoneos-arm.deb
+Size: 164672
+MD5sum: 926891ea9b21749c83d8ec4f8fb99315
+SHA1: 8c22c7bc394cbd1285b3e422b056706ac2f10110
+SHA256: af11d1f26ae46bdb7c4a8e40d9bf2db8575526b7c5ce16c862b65894457c6e09
 Section: Themes
 Description: Icon effects to offset Stencil theme
 Author: jammytea <jonathan.telfer@gmail.com>
