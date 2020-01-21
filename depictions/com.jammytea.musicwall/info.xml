@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.musicwall</id>
 	<name>Music wall and wallpaper filter</name>
-	<version>1.2</version>
+	<version>1.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
