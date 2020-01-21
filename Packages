@@ -50,15 +50,15 @@ Name: Indie music logos
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.indiezeppelin/sileo.json
 
 Package: com.jammytea.musicwall
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: jammytea <jonathan.telfer@gmail.com>
 Depends: firmware (>= 7.0)
-Filename: ./debs/com.jammytea.musicwall_1.2_iphoneos-arm.deb
-Size: 2286
-MD5sum: 3196b6baf433e3af653ee5c2a88710fa
-SHA1: fb6697e32c955e3df97191fc07cfbe7985f14048
-SHA256: aef42f64f8a7073d41839df2e918a43e79318b3d810b7d1ec0face800ee81929
+Filename: ./debs/com.jammytea.musicwall_1.3_iphoneos-arm.deb
+Size: 2336
+MD5sum: 9c9a60a8aee68c898e4479e5e45d1837
+SHA1: 4b03bb988b0cbd521e3f627505383362328df729
+SHA256: 424195fcd8fb25da380710591d73bf5fb7d614de9d666bd66f984c5e0c36ef7b
 Section: Widgets
 Description: A widget to apply various filters to your wallpaper on the fly, switches to album artwork while music playing
 Author: jammytea <jonathan.telfer@gmail.com>
