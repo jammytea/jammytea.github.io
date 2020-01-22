@@ -234,6 +234,23 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets1
 Name: Stencil widgets XI
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilwidgets11/sileo.json
 
+Package: com.jammytea.stencilwidgetsxi
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./debs/com.jammytea.stencilwidgetsxi_1.7.1_iphoneos-arm.deb
+Size: 356646
+MD5sum: 7a51bb159a532651061a5d4ca4c5186a
+SHA1: 9e4d9139be549f9da1297e3a8ab1c1e6d6e22c7b
+SHA256: 2190075e325bc1a30a3ba297856695fed34093fd356998fbb33be5330677fd59
+Section: Widgets
+Description: Six mini home screen widgets needing XenInfo
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilwidgets11
+Name: Stencil widgets XI
+Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilwidgets11/sileo.json
+
 Package: com.jammytea.stencilwidgetsxihex
 Version: 1.4.1
 Architecture: iphoneos-arm
