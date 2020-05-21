@@ -168,6 +168,23 @@ Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccon
 Name: Stencil Music Control
 Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilmusiccontrol/sileo.json
 
+Package: com.jammytea.stencilmusiccontrol
+Version: 1.8
+Architecture: iphoneos-arm
+Maintainer: jammytea <jonathan.telfer@gmail.com>
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.jammytea.stencilmusiccontrol_1.8_iphoneos-arm.deb
+Size: 44834
+MD5sum: bac721c4802f1823f0b2578f154f3d6e
+SHA1: 52709e52b8654776d7692e7e08a33db3a3e110f8
+SHA256: b3fe31e0a216b053f35e4915f9c5236adef4c79687771ab4175bcd2e0f77c28a
+Section: Themes
+Description: Media controls for Stencil theme, up to ios13+
+Author: jammytea <jonathan.telfer@gmail.com>
+Depiction: https://jammytea.github.io/depictions/?p=com.jammytea.stencilmusiccontrol
+Name: Stencil Music Control
+Sileodepiction: https://jammytea.github.io/depictions/com.jammytea.stencilmusiccontrol/sileo.json
+
 Package: com.jammytea.stencilsettingscustom
 Version: 1.1.5
 Architecture: iphoneos-arm
