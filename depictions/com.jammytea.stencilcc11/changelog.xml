@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.5.1</version>
+		<change>Added lockscreen camera and torch</change>
+	</changes>
+	<changes>
 		<version>1.5</version>
 		<change>Added Snowboard previews</change>
 	</changes>

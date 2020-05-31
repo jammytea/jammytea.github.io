@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilcc11</id>
 	<name>Stencil Control Center</name>
-	<version>1.5</version>
+	<version>1.5.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -13,8 +13,8 @@
 	<dependencies></dependencies>
 		<shortDescription>Full theme for the iOS11+ control center</shortDescription>
 	<descriptionlist>
-		<description>Full theme for the control center, includes all currently themable elements, plus ALL FlipConvert, CCModules and EzCC toggles, PowerSelector and LDRestart. Some animated stock items are not yet themable. Yet...</description>
-		<description>For some reason, Bluetooth and Wifi will only theme using BetterCCIcons glyphs mode. Installing this theme adds alternative glyphs to the BetterCCIcons PreferenceBundle folder, and require manually renaming to replace the original files. Everything else is activated through Anemone, but you may need to respring or UICache to get them to show.</description>
+		<description>Full theme for the control center, includes all currently themable elements, plus ALL FlipConvert, CCModules and EzCC toggles, PowerSelector and LDRestart. </description>
+		<description>Bluetooth and Wifi will only theme using BetterCCIcons glyphs mode. Installing this theme adds alternative glyphs to the BetterCCIcons PreferenceBundle folder, and require manually renaming to replace the original files. Everything else is activated through your theme engine, but you may need to respring or UICache to get them to show.</description>
 		<description>Matching media controls are available separately through my repo. </description>
 	</descriptionlist>
 	<screenshots>	<screenshot>
@@ -28,7 +28,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Cleaned up icons</change>
+		<change>added lockscreen camera and torch</change>
 	</changelog>
 	<links></links>
 </package>
