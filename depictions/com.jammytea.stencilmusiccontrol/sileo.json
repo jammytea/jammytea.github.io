@@ -10,7 +10,7 @@
                     "useBoldText": true
                 },
                 {
-                    "markdown": "Media controls for Stencil theme on ios12 and 11",
+                    "markdown": "Media controls for Stencil theme on ios11-13",
                     "class": "DepictionMarkdownView",
                     "useSpacing": true
                 },
@@ -41,7 +41,7 @@
                 },
                 {
                     "title": "Version",
-                    "text": "1.6",
+                    "text": "1.8.1",
                     "class": "DepictionTableTextView"
                 },
                 {

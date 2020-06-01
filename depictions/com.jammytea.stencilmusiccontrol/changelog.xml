@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.8.1</version>
+		<change>Resizing for Snowboard</change>
+	</changes>
+	<changes>
 		<version>1.8</version>
 		<change>Full 13 compatibility</change>
 	</changes>

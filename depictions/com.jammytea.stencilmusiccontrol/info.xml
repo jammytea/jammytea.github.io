@@ -1,7 +1,7 @@
 <package>
 	<id>com.jammytea.stencilmusiccontrol</id>
 	<name>Stencil Music Control</name>
-	<version>1.8</version>
+	<version>1.8.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>7.0</miniOS>
@@ -24,7 +24,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Full 13 compatibility</change>
+		<change>Resizing for SB - not touching this again now until we're all out of beta</change>
 	</changelog>
 	<links></links>
 </package>
